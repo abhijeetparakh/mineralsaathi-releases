@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.17.0.zip",
-  "notes": "Invoice fills the whole A4 page with bigger text; UPI QR for the exact amount (note: invoice no. + firm); freight line with total freight approx. Saved invoices are locked: changing or cancelling needs the edit password (Settings → Security)."
+  "version": "1.18.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.18.0.zip",
+  "notes": "Lorry master: UPI made automatically from account no. + IFSC (account@IFSC.ifsc.npci). Freight voucher: UPI QR for the net freight, note = voucher no. + lorry no."
 }
