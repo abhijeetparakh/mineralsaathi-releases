@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.7.0.zip",
-  "notes": "Item lists (colour, mesh, form, bag type, bag weight, packing type, HSN, GST, unit, condition, mines) and item entry with drop-downs."
+  "version": "1.8.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.8.0.zip",
+  "notes": "Buyer items use the item lists (name, colour, mesh, form, HSN, GST, bag type, bag weight, packing type, bags by, liner); Items, Lorries opens Item lists; common items list hidden."
 }
