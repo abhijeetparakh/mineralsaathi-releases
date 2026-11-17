@@ -1,5 +1,5 @@
 {
-  "version": "1.15.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.3.zip",
-  "notes": "Fixes the 'Where is your data?' page, which did not respond in 1.15.1 and 1.15.2."
+  "version": "1.16.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.16.0.zip",
+  "notes": "Invoice: Transporter GSTIN field (filled from the Transporters list, can be typed). It goes into the e-way bill JSON and is needed for the JSON, email and invoices above Rs 25,000. New transporters and GSTINs are saved to the list."
 }
