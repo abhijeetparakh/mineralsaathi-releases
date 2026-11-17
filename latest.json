@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.5.0.zip",
-  "notes": "Bags before HSN with quantity from bags x kg; e-way bill JSON button; invoices above Rs 25,000 need the e-way bill number."
+  "version": "1.6.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.6.0.zip",
+  "notes": "Settings in tabs; a tab for each company with details, bank, terms, logo and email sending; logo printed on invoices and vouchers."
 }
