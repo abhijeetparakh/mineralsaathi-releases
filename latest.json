@@ -1,5 +1,5 @@
 {
-  "version": "1.16.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.16.0.zip",
-  "notes": "Invoice: Transporter GSTIN field (filled from the Transporters list, can be typed). It goes into the e-way bill JSON and is needed for the JSON, email and invoices above Rs 25,000. New transporters and GSTINs are saved to the list."
+  "version": "1.16.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.16.1.zip",
+  "notes": "Transporter GSTIN on the invoice is locked: it always comes from Masters → Lorries & more → Transporters."
 }
