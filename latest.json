@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.6.0.zip",
-  "notes": "Settings in tabs; a tab for each company with details, bank, terms, logo and email sending; logo printed on invoices and vouchers."
+  "version": "1.7.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.7.0.zip",
+  "notes": "Item lists (colour, mesh, form, bag type, bag weight, packing type, HSN, GST, unit, condition, mines) and item entry with drop-downs."
 }
