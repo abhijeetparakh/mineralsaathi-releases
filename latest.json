@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.9.1.zip",
-  "notes": "Item lists moved back under Masters in the side menu."
+  "version": "1.10.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.10.0.zip",
+  "notes": "GSTIN always in capitals; transporter GSTIN on invoice; buyer items can be fixed to a plant; e-way bill file and email need lorry, L.R., freight and plant; invoices above Rs 25,000 need them plus the e-way bill number."
 }
