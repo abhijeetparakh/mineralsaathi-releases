@@ -1,5 +1,5 @@
 {
-  "version": "1.15.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.2.zip",
-  "notes": "'Where is your data?' page no longer freezes while searching Google Drive and the disks. No warning bar in the app window on the main PC."
+  "version": "1.15.3",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.3.zip",
+  "notes": "Fixes the 'Where is your data?' page, which did not respond in 1.15.1 and 1.15.2."
 }
