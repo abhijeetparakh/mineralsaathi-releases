@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.13.0.zip",
-  "notes": "Printers for each computer: invoice (1 copy from 9 MT, else 2), 4x6 bag stickers, envelope; direct printing with no print window."
+  "version": "1.14.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.14.0.zip",
+  "notes": "Buyers can have many delivery addresses (godowns) with their own pincode. Invoice: choose Deliver to and the e-way bill type (Bill To - Ship To is set when the pincode differs). Ship-to prints on the invoice and bag stickers; the e-way bill JSON uses it."
 }
