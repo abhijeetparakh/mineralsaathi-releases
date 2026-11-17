@@ -1,5 +1,5 @@
 {
-  "version": "1.19.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.19.0.zip",
-  "notes": "Invoice dispatch: Freight rate per MT, Total freight (calculated) and Freight payment mode (To Pay by default; list in Item lists). Printed on the freight line. Bank details of the firm printed at the bottom of sales invoices (Settings → Companies → Bank, with Branch)."
+  "version": "1.19.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.19.1.zip",
+  "notes": "Bank details now under the terms of sale on every invoice (PM, PF, PPE). UPI QR also when the firm has no UPI id: made from its bank account + IFSC (so Parakh Fertilizer invoices get the QR)."
 }
