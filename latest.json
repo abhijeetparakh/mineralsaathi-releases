@@ -1,5 +1,5 @@
 {
-  "version": "1.14.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.14.1.zip",
-  "notes": "Safer start with Google Drive data: the data file is checked before use; a damaged or half-downloaded file stops with clear steps instead of restarting again and again. Old side files from another PC are moved aside."
+  "version": "1.15.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.0.zip",
+  "notes": "New installation asks 'Where is your data?' (finds Mineral Saathi data in Google Drive and on the disks, or browse to the folder). Damaged or half-synced data opens the same page with the reason. Settings → Data location: Choose the data folder."
 }
