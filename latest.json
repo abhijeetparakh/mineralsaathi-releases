@@ -1,5 +1,5 @@
 {
-  "version": "1.18.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.18.1.zip",
-  "notes": "Saved freight vouchers are locked: editing or deleting needs the edit password. Voucher: signature boxes removed; 'For firm / Authorised Signatory' now on the right of the UPI QR block."
+  "version": "1.18.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.18.2.zip",
+  "notes": "Old data: dispatch plant Karni Industries -> KI PLANT, P.P. Industries -> PPI PLANT (invoices, inwards, buyer items)."
 }
