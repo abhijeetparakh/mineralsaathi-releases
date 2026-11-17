@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.14.0.zip",
-  "notes": "Buyers can have many delivery addresses (godowns) with their own pincode. Invoice: choose Deliver to and the e-way bill type (Bill To - Ship To is set when the pincode differs). Ship-to prints on the invoice and bag stickers; the e-way bill JSON uses it."
+  "version": "1.14.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.14.1.zip",
+  "notes": "Safer start with Google Drive data: the data file is checked before use; a damaged or half-downloaded file stops with clear steps instead of restarting again and again. Old side files from another PC are moved aside."
 }
