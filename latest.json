@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.0.zip",
-  "notes": "New installation asks 'Where is your data?' (finds Mineral Saathi data in Google Drive and on the disks, or browse to the folder). Damaged or half-synced data opens the same page with the reason. Settings → Data location: Choose the data folder."
+  "version": "1.15.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.1.zip",
+  "notes": "If the other computer was shut down without 'Close for today', Mineral Saathi now shows a page with an 'Open the data on this computer' button instead of a black-window message."
 }
