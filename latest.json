@@ -1,5 +1,5 @@
 {
-  "version": "1.15.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.1.zip",
-  "notes": "If the other computer was shut down without 'Close for today', Mineral Saathi now shows a page with an 'Open the data on this computer' button instead of a black-window message."
+  "version": "1.15.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.15.2.zip",
+  "notes": "'Where is your data?' page no longer freezes while searching Google Drive and the disks. No warning bar in the app window on the main PC."
 }
