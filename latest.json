@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.9.0.zip",
-  "notes": "Invoice item, grade, rate, HSN, GST, bag and packing locked - taken only from the buyer items; Item lists moved into Settings."
+  "version": "1.9.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.9.1.zip",
+  "notes": "Item lists moved back under Masters in the side menu."
 }
