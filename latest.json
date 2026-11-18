@@ -1,5 +1,5 @@
 {
-  "version": "1.19.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.19.1.zip",
-  "notes": "Bank details now under the terms of sale on every invoice (PM, PF, PPE). UPI QR also when the firm has no UPI id: made from its bank account + IFSC (so Parakh Fertilizer invoices get the QR)."
+  "version": "1.20.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.20.0.zip",
+  "notes": "Transporter TDS declaration u/s 194C(6): upload the transporter's PAN card (blank border cut away); the declaration is made once per F.Y. for each buyer and emailed to the transporter and the buyer with the first new invoice. Reports → Transporter TDS to print or resend, with editable email matter."
 }
