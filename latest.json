@@ -1,5 +1,5 @@
 {
-  "version": "1.22.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.22.0.zip",
-  "notes": "Commission agents: list in Item lists, chosen on each buyer item. Commission screen: filter by agent (all buyers of that agent) and record payments to an agent."
+  "version": "1.22.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.22.1.zip",
+  "notes": "Commission now counts old invoices with old item names (matched by grade). Buyers: 'Old names on old Excel invoices' links old invoices written under another buyer name."
 }
