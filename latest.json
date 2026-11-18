@@ -1,5 +1,5 @@
 {
-  "version": "1.20.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.20.0.zip",
-  "notes": "Transporter TDS declaration u/s 194C(6): upload the transporter's PAN card (blank border cut away); the declaration is made once per F.Y. for each buyer and emailed to the transporter and the buyer with the first new invoice. Reports → Transporter TDS to print or resend, with editable email matter."
+  "version": "1.21.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.21.0.zip",
+  "notes": "Commission: rate per MT in the buyer's items (private). New password-protected Commission screen: commission on every invoice from the first one, payments made, total, paid and balance."
 }
