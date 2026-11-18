@@ -1,5 +1,5 @@
 {
-  "version": "1.21.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.21.0.zip",
-  "notes": "Commission: rate per MT in the buyer's items (private). New password-protected Commission screen: commission on every invoice from the first one, payments made, total, paid and balance."
+  "version": "1.22.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.22.0.zip",
+  "notes": "Commission agents: list in Item lists, chosen on each buyer item. Commission screen: filter by agent (all buyers of that agent) and record payments to an agent."
 }
