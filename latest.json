@@ -1,5 +1,5 @@
 {
-  "version": "1.22.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.22.1.zip",
-  "notes": "Commission now counts old invoices with old item names (matched by grade). Buyers: 'Old names on old Excel invoices' links old invoices written under another buyer name."
+  "version": "1.23.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.23.0.zip",
+  "notes": "Commission: + Expense (date, description, amount) added to what is owed to the agent/buyer; import old commission payments from an Excel or CSV file in one go."
 }
