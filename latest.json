@@ -1,5 +1,5 @@
 {
-  "version": "1.23.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.23.1.zip",
-  "notes": "Commission: a mesh grade without a colour letter counts as yellow (150 MESH = Y150 MESH, 300 MESH = Y300 MESH)."
+  "version": "1.23.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.23.2.zip",
+  "notes": "Commission: + Expense now has Agent and Buyer boxes to link the expense to an agent, a buyer or both."
 }
