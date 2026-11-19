@@ -1,5 +1,5 @@
 {
-  "version": "1.29.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.29.0.zip",
-  "notes": "Every saved invoice gets a PDF in the invoice folder (InvoiceNo_Buyer_to_City_of_Item_by_Firm.pdf). Save & print finds the e-way bill PDF in the e-way bill folder (checks seller and buyer GSTIN, invoice no., amount), fills the e-way bill number, adds the e-way bill as the next page of the invoice PDF and removes it from the folder. If not found: choose the file, or skip below the limit."
+  "version": "1.30.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.30.0.zip",
+  "notes": "Transporters: upload bank proof and signature (white space cut away); signature printed on the TDS declaration; bank proof emailed to the buyer with the TDS declaration the first time; TDS declaration footer: This is a Computer-Generated Document..."
 }
