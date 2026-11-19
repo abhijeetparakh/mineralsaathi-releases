@@ -1,5 +1,5 @@
 {
-  "version": "1.39.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.39.1.zip",
-  "notes": "Bag stickers in two halves: buyer (TO) on the upper half, sender (FROM) with invoice, items and bag no. on the lower half. No logo."
+  "version": "1.40.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.40.0.zip",
+  "notes": "Local freight: new Item lists → Local freight (driver name, tempo no., mobile). Saved invoices under 200 bags get a Local Freight Letter button: choose or add the tempo driver, enter the amount, and one letter to the transporter is printed in your format."
 }
