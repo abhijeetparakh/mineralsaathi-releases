@@ -1,5 +1,5 @@
 {
-  "version": "1.33.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.33.0.zip",
-  "notes": "Proforma invoices (PM_2026-27_001 / PF_2026-27_001): same form as the sales invoice without e-way bill, PDF preview after saving (PI no_Buyer_Firm_ProformaInvoice.pdf), list with print and email (attach proforma, seller bank proof, transporter bank proof). A new proforma also goes into the Orders book, dispatch in 7 days."
+  "version": "1.34.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.34.0.zip",
+  "notes": "Parakh Fertilizer invoice → Parakh Marketing's invoice to Parakh Fertilizer is made by itself (PF's own items, bags rounded up so the qty is never less, no e-way bill needed), printed in 2 copies with the PF invoice and saved as PDF. Editing or cancelling the PF invoice changes or cancels it too."
 }
