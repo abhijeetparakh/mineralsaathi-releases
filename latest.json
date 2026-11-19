@@ -1,5 +1,5 @@
 {
-  "version": "1.31.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.31.0.zip",
-  "notes": "Email box (double-click an invoice in the list): Attach the following — invoice + e-way bill, transporter TDS certificate, test report, transporter bank proof, L.R. copy, transporter invoice (upload them right there). Reports → Email log (seller, buyer, template, invoice no., date, time, status)."
+  "version": "1.32.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.32.0.zip",
+  "notes": "Orders Book (Sales): add orders (firm, buyer, buyer's items, qty, dispatch by date), edit/delete, ➜ Create sales invoice fills buyer and items (type the bags). The order leaves the book when its invoice is printed. + New Order in the menu."
 }
