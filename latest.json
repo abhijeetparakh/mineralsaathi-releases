@@ -1,5 +1,5 @@
 {
-  "version": "1.44.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.44.0.zip",
-  "notes": "📎 L.R. copy on every saved invoice: upload a photo or PDF, drag it in, or paste a picture (Ctrl+V). Photos are made smaller and saved in the invoice folder next to the invoice PDF; the L.R. copy is ticked in the invoice email and can be emailed from the L.R. box. Settings → Universal rules: switch automatic invoice email on or off. Email templates: a sales template can be set to Send automatically or by hand only."
+  "version": "1.44.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.44.1.zip",
+  "notes": "Invoice Preview / PDF shows the e-way bill after each invoice copy (when its e-way bill PDF is attached), so Print / Save PDF from the preview has both."
 }
