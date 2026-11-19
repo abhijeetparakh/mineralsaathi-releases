@@ -1,5 +1,5 @@
 {
-  "version": "1.36.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.36.2.zip",
-  "notes": "Round quantities show without decimals (35 MT); others with 3 decimals (21.500, 21.545)."
+  "version": "1.37.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.37.0.zip",
+  "notes": "Item lists → Suppliers with name, IBM no., item and HSN; the inward voucher picks the supplier from this list and fills the item. New Stock IN screen under Inward & Freight: F.Y., month, supplier and item filters; total rawana and actual qty by item and by supplier from P.P. Enterprise and Parakh Marketing inward vouchers and stock-in entries; Parakh Marketing stock-in entries (PMST01 …) with date, supplier, item, rawana no., rawana qty, actual qty, freight per MT and total freight."
 }
