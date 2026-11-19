@@ -1,5 +1,5 @@
 {
-  "version": "1.34.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.34.1.zip",
-  "notes": "New proforma invoice: first choose the selling firm (Parakh Marketing or Parakh Fertilizer, with the next proforma no.); only that firm's buyers can be chosen."
+  "version": "1.34.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.34.2.zip",
+  "notes": "Invoices imported from the old Excel file can now be changed too: open the invoice, press Edit invoice and enter the edit password (the buyer and items must be in Buyers)."
 }
