@@ -1,5 +1,5 @@
 {
-  "version": "1.43.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.43.0.zip",
-  "notes": "Invoice print: no more overlapping (long invoices shrink to one page), terms, QR and signature at the bottom of the page, freight details in the dispatch box, smaller signature, QR shows only Scan & pay. Printing an invoice also prints its e-way bill on the back of each copy (both sides; can be switched off in Settings → This computer → Printers). Every email also goes to the sender (self CC)."
+  "version": "1.44.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.44.0.zip",
+  "notes": "📎 L.R. copy on every saved invoice: upload a photo or PDF, drag it in, or paste a picture (Ctrl+V). Photos are made smaller and saved in the invoice folder next to the invoice PDF; the L.R. copy is ticked in the invoice email and can be emailed from the L.R. box. Settings → Universal rules: switch automatic invoice email on or off. Email templates: a sales template can be set to Send automatically or by hand only."
 }
