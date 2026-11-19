@@ -1,5 +1,5 @@
 {
-  "version": "1.26.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.26.0.zip",
-  "notes": "Buyers: delivery addresses behind a tick box, item form opens with + Add new item / Edit, ⧉ Duplicate item, Lot no. needed, Test report compulsory, Group of companies and Payment terms lists (default 100% Advance), distance km from pincode (internet), automatic invoice email 1 hour after the invoice (once, retried hourly), buyer list sort and item tick."
+  "version": "1.27.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.27.0.zip",
+  "notes": "Email templates (Settings): message bodies for Sales invoice, Proforma invoice and Invoice copy to transporter, with fields like Buyer name, Invoice No., Item name, Item qty, Lorry no., Total freight, Driver number, Transporter name/phone/bank, Seller bank. Invoice: Email to transporter button; template choice in the email box."
 }
