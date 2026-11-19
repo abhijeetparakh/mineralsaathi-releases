@@ -1,5 +1,5 @@
 {
-  "version": "1.37.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.37.1.zip",
-  "notes": "Stock IN: yellow and white are counted together as DIATOMACEOUS EARTH (RAW) (HSN 251200); gypsum as GYPSUM."
+  "version": "1.37.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.37.2.zip",
+  "notes": "New Item lists → Raw material list (with HSN), started with DIATOMACEOUS EARTH (RAW) 251200 and GYPSUM 252010. Suppliers, inward vouchers and Stock IN use the raw material list, not the Item name list."
 }
