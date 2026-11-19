@@ -1,5 +1,5 @@
 {
-  "version": "1.40.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.40.1.zip",
-  "notes": "Factory Wages: 🖨 Print voucher after the month is saved (one page per plant: dispatch wages, fixed and other expenses, total, signatures), and 📂 Saved vouchers to see, open or print every saved month."
+  "version": "1.41.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.41.0.zip",
+  "notes": "New ⛽ Fuel tab: enter date, no. of barrels, litres in a barrel and rate per litre (net amount worked out). Item lists → Item form has a new Uses fuel tick. The Fuel tab shows the average fuel cost per MT of production, by month and by item, for Parakh Marketing dispatch of items whose form uses fuel — from 1 October 2026 only."
 }
