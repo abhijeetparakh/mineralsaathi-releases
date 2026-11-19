@@ -1,5 +1,5 @@
 {
-  "version": "1.42.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.42.0.zip",
-  "notes": "B2C sales: Buyers is now Buyers B2B, and a new Buyers B2C keeps online / walk-in customers apart (B2C customers already in Buyers are moved there). + New B2C Invoice bills the ledger ONLINE SALE (Parakh Marketing, same invoice series): choose the medium (Website / Self) and the customer, type the price per bag, send by courier (courier name, docket no.) or lorry. GSTIN UNREGISTERED; GST by the customer's state; reports show ONLINE SALE; the print and email are in the customer's name."
+  "version": "1.42.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.42.1.zip",
+  "notes": "E-way bill JSON is saved on the Desktop you really see, also when Windows keeps the Desktop in OneDrive. If it cannot be saved there, a save window opens instead."
 }
