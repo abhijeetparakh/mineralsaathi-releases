@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.27.0.zip",
-  "notes": "Email templates (Settings): message bodies for Sales invoice, Proforma invoice and Invoice copy to transporter, with fields like Buyer name, Invoice No., Item name, Item qty, Lorry no., Total freight, Driver number, Transporter name/phone/bank, Seller bank. Invoice: Email to transporter button; template choice in the email box."
+  "version": "1.28.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.28.0.zip",
+  "notes": "Invoice: dispatch plant for every item (printed very small under the item, for our own use), Lot No. per item (compulsory when the buyer item says so, printed under the item), driver phone list from the lorry's old records, warning before changing a saved invoice, Re-send email button."
 }
