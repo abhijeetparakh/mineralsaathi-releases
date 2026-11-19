@@ -1,5 +1,5 @@
 {
-  "version": "1.30.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.30.0.zip",
-  "notes": "Transporters: upload bank proof and signature (white space cut away); signature printed on the TDS declaration; bank proof emailed to the buyer with the TDS declaration the first time; TDS declaration footer: This is a Computer-Generated Document..."
+  "version": "1.31.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.31.0.zip",
+  "notes": "Email box (double-click an invoice in the list): Attach the following — invoice + e-way bill, transporter TDS certificate, test report, transporter bank proof, L.R. copy, transporter invoice (upload them right there). Reports → Email log (seller, buyer, template, invoice no., date, time, status)."
 }
