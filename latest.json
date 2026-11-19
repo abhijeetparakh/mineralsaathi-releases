@@ -1,5 +1,5 @@
 {
-  "version": "1.37.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.37.2.zip",
-  "notes": "New Item lists → Raw material list (with HSN), started with DIATOMACEOUS EARTH (RAW) 251200 and GYPSUM 252010. Suppliers, inward vouchers and Stock IN use the raw material list, not the Item name list."
+  "version": "1.38.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.38.0.zip",
+  "notes": "Rawana QR: on a new inward voucher and in Stock IN, scan the QR code on the rawana (or paste the link / type the rawana no.). The rawana page on the mines website is read and the rawana no., lorry no., rawana weight (net mineral weight), driver name and driver mobile are filled in. Warns when the rawana is already entered."
 }
