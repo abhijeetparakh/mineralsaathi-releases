@@ -1,5 +1,5 @@
 {
-  "version": "1.32.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.32.0.zip",
-  "notes": "Orders Book (Sales): add orders (firm, buyer, buyer's items, qty, dispatch by date), edit/delete, ➜ Create sales invoice fills buyer and items (type the bags). The order leaves the book when its invoice is printed. + New Order in the menu."
+  "version": "1.33.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.33.0.zip",
+  "notes": "Proforma invoices (PM_2026-27_001 / PF_2026-27_001): same form as the sales invoice without e-way bill, PDF preview after saving (PI no_Buyer_Firm_ProformaInvoice.pdf), list with print and email (attach proforma, seller bank proof, transporter bank proof). A new proforma also goes into the Orders book, dispatch in 7 days."
 }
