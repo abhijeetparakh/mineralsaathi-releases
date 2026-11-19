@@ -1,5 +1,5 @@
 {
-  "version": "1.37.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.37.0.zip",
-  "notes": "Item lists → Suppliers with name, IBM no., item and HSN; the inward voucher picks the supplier from this list and fills the item. New Stock IN screen under Inward & Freight: F.Y., month, supplier and item filters; total rawana and actual qty by item and by supplier from P.P. Enterprise and Parakh Marketing inward vouchers and stock-in entries; Parakh Marketing stock-in entries (PMST01 …) with date, supplier, item, rawana no., rawana qty, actual qty, freight per MT and total freight."
+  "version": "1.37.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.37.1.zip",
+  "notes": "Stock IN: yellow and white are counted together as DIATOMACEOUS EARTH (RAW) (HSN 251200); gypsum as GYPSUM."
 }
