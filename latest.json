@@ -1,5 +1,5 @@
 {
-  "version": "1.38.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.38.0.zip",
-  "notes": "Rawana QR: on a new inward voucher and in Stock IN, scan the QR code on the rawana (or paste the link / type the rawana no.). The rawana page on the mines website is read and the rawana no., lorry no., rawana weight (net mineral weight), driver name and driver mobile are filled in. Warns when the rawana is already entered."
+  "version": "1.38.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.38.1.zip",
+  "notes": "Rawana QR reads the lorry no. from the page heading, net mineral weight, driver name and mobile, GSTIN, name of the lessee, mineral, royalty, DMFT and NMET. The supplier is found by GSTIN or lessee name (new GSTIN and Lessee name boxes in Suppliers); a new lessee can be added to Suppliers with one click. Siliceous Earth is read as DIATOMACEOUS EARTH (RAW)."
 }
