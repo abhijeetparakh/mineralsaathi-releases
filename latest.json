@@ -1,5 +1,5 @@
 {
-  "version": "1.24.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.24.0.zip",
-  "notes": "Factory Wages (Parakh Marketing invoices only): dispatch per plant and grade, wages from the item form rate, fixed and other expenses per month. Item lists: wage rate per item form, Plants, Factory fixed expenses."
+  "version": "1.25.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.25.0.zip",
+  "notes": "Settings: e-way bill folder (Backup & files), Universal rules tab (e-way bill limit within / outside the state, mobile number digits), signature and bank proof for each company; signature printed on invoices and vouchers."
 }
