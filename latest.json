@@ -1,5 +1,5 @@
 {
-  "version": "1.23.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.23.2.zip",
-  "notes": "Commission: + Expense now has Agent and Buyer boxes to link the expense to an agent, a buyer or both."
+  "version": "1.24.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.24.0.zip",
+  "notes": "Factory Wages (Parakh Marketing invoices only): dispatch per plant and grade, wages from the item form rate, fixed and other expenses per month. Item lists: wage rate per item form, Plants, Factory fixed expenses."
 }
