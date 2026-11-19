@@ -1,5 +1,5 @@
 {
-  "version": "1.45.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.45.0.zip",
-  "notes": "Emails are proper HTML: white page, your logo at a fixed small size, the message in your font with real paragraphs, firm address / phone / GSTIN at the bottom (plain text copy included). Settings → Email templates: new Email look (font, size, colour, logo height and position, footer, preview) and a formatting editor for every template (font, size, bold, italic, underline, colour, lists, alignment, links, preview). The same editor is in every email box before sending (invoice, proforma, payment reminder, TDS). Buyers B2B without a GSTIN move to Buyers B2C (old invoices unchanged; CASH stays)."
+  "version": "1.45.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.45.1.zip",
+  "notes": "Backups: one file per day (MineralSaathi_YYYY-MM-DD.db, updated through the day), only the last 10 days are kept; the many older backup files are deleted."
 }
