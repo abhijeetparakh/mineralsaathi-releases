@@ -1,5 +1,5 @@
 {
-  "version": "1.36.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.36.0.zip",
-  "notes": "Dashboard shows the Orders Book: every order with firm, dispatch date (late / today marked), buyer, items and quantity. Click an order to make its sales invoice with the buyer and items filled in."
+  "version": "1.36.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.36.1.zip",
+  "notes": "Every quantity in tonnes shows 3 decimals (e.g. 21.545) on screens, prints, emails and reports; quantity boxes change to 3 decimals when you leave them. Bag sizes in kg are unchanged."
 }
