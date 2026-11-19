@@ -1,5 +1,5 @@
 {
-  "version": "1.41.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.41.0.zip",
-  "notes": "New ⛽ Fuel tab: enter date, no. of barrels, litres in a barrel and rate per litre (net amount worked out). Item lists → Item form has a new Uses fuel tick. The Fuel tab shows the average fuel cost per MT of production, by month and by item, for Parakh Marketing dispatch of items whose form uses fuel — from 1 October 2026 only."
+  "version": "1.41.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.41.1.zip",
+  "notes": "Parakh Marketing and Parakh Fertilizer: when a logo is uploaded (Settings → Companies), the logo is printed instead of the firm name at the top of invoices, proformas, freight vouchers, bag stickers, envelopes, factory wages vouchers and the local freight letter, and it is shown at the top of every email. Fonts of the local freight letter are unchanged."
 }
