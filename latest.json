@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.25.0.zip",
-  "notes": "Settings: e-way bill folder (Backup & files), Universal rules tab (e-way bill limit within / outside the state, mobile number digits), signature and bank proof for each company; signature printed on invoices and vouchers."
+  "version": "1.26.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.26.0.zip",
+  "notes": "Buyers: delivery addresses behind a tick box, item form opens with + Add new item / Edit, ⧉ Duplicate item, Lot no. needed, Test report compulsory, Group of companies and Payment terms lists (default 100% Advance), distance km from pincode (internet), automatic invoice email 1 hour after the invoice (once, retried hourly), buyer list sort and item tick."
 }
