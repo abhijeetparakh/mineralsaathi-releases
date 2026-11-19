@@ -1,5 +1,5 @@
 {
-  "version": "1.39.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.39.0.zip",
-  "notes": "New invoice: tick Make transporter invoice to make the transporter's freight invoice to the buyer in their format (No. = L.R. no., amount = total freight, transporter GSTIN, PAN, address and bank details). It is saved as a PDF next to the invoice PDF and attached to the invoice email; there is also a Transporter invoice button to view or print it."
+  "version": "1.39.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.39.1.zip",
+  "notes": "Bag stickers in two halves: buyer (TO) on the upper half, sender (FROM) with invoice, items and bag no. on the lower half. No logo."
 }
