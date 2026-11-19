@@ -1,5 +1,5 @@
 {
-  "version": "1.38.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.38.2.zip",
-  "notes": "Every value typed or chosen in a form (invoice, proforma, order, inward, Stock IN, buyers, masters, settings) is shown in bold."
+  "version": "1.38.3",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.38.3.zip",
+  "notes": "Stock IN opens with the cursor in the Rawana QR box, ready to scan."
 }
