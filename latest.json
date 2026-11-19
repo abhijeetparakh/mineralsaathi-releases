@@ -1,5 +1,5 @@
 {
-  "version": "1.42.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.42.1.zip",
-  "notes": "E-way bill JSON is saved on the Desktop you really see, also when Windows keeps the Desktop in OneDrive. If it cannot be saved there, a save window opens instead."
+  "version": "1.43.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.43.0.zip",
+  "notes": "Invoice print: no more overlapping (long invoices shrink to one page), terms, QR and signature at the bottom of the page, freight details in the dispatch box, smaller signature, QR shows only Scan & pay. Printing an invoice also prints its e-way bill on the back of each copy (both sides; can be switched off in Settings → This computer → Printers). Every email also goes to the sender (self CC)."
 }
