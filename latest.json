@@ -1,5 +1,5 @@
 {
-  "version": "1.35.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.35.1.zip",
-  "notes": "Payment reminder: Both / PM / PF buttons to show the invoices of one firm or both; the buyer list follows the firm chosen."
+  "version": "1.36.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.36.0.zip",
+  "notes": "Dashboard shows the Orders Book: every order with firm, dispatch date (late / today marked), buyer, items and quantity. Click an order to make its sales invoice with the buyer and items filled in."
 }
