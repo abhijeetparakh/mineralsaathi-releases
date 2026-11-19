@@ -1,5 +1,5 @@
 {
-  "version": "1.28.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.28.0.zip",
-  "notes": "Invoice: dispatch plant for every item (printed very small under the item, for our own use), Lot No. per item (compulsory when the buyer item says so, printed under the item), driver phone list from the lorry's old records, warning before changing a saved invoice, Re-send email button."
+  "version": "1.29.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.29.0.zip",
+  "notes": "Every saved invoice gets a PDF in the invoice folder (InvoiceNo_Buyer_to_City_of_Item_by_Firm.pdf). Save & print finds the e-way bill PDF in the e-way bill folder (checks seller and buyer GSTIN, invoice no., amount), fills the e-way bill number, adds the e-way bill as the next page of the invoice PDF and removes it from the folder. If not found: choose the file, or skip below the limit."
 }
