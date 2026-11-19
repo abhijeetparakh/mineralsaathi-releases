@@ -1,5 +1,5 @@
 {
-  "version": "1.40.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.40.0.zip",
-  "notes": "Local freight: new Item lists → Local freight (driver name, tempo no., mobile). Saved invoices under 200 bags get a Local Freight Letter button: choose or add the tempo driver, enter the amount, and one letter to the transporter is printed in your format."
+  "version": "1.40.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.40.1.zip",
+  "notes": "Factory Wages: 🖨 Print voucher after the month is saved (one page per plant: dispatch wages, fixed and other expenses, total, signatures), and 📂 Saved vouchers to see, open or print every saved month."
 }
