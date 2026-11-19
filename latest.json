@@ -1,5 +1,5 @@
 {
-  "version": "1.38.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.38.1.zip",
-  "notes": "Rawana QR reads the lorry no. from the page heading, net mineral weight, driver name and mobile, GSTIN, name of the lessee, mineral, royalty, DMFT and NMET. The supplier is found by GSTIN or lessee name (new GSTIN and Lessee name boxes in Suppliers); a new lessee can be added to Suppliers with one click. Siliceous Earth is read as DIATOMACEOUS EARTH (RAW)."
+  "version": "1.38.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.38.2.zip",
+  "notes": "Every value typed or chosen in a form (invoice, proforma, order, inward, Stock IN, buyers, masters, settings) is shown in bold."
 }
