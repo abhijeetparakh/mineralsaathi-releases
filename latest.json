@@ -1,5 +1,5 @@
 {
-  "version": "1.36.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.36.1.zip",
-  "notes": "Every quantity in tonnes shows 3 decimals (e.g. 21.545) on screens, prints, emails and reports; quantity boxes change to 3 decimals when you leave them. Bag sizes in kg are unchanged."
+  "version": "1.36.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.36.2.zip",
+  "notes": "Round quantities show without decimals (35 MT); others with 3 decimals (21.500, 21.545)."
 }
