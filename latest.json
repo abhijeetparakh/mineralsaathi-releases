@@ -1,5 +1,5 @@
 {
-  "version": "1.44.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.44.1.zip",
-  "notes": "Invoice Preview / PDF shows the e-way bill after each invoice copy (when its e-way bill PDF is attached), so Print / Save PDF from the preview has both."
+  "version": "1.45.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.45.0.zip",
+  "notes": "Emails are proper HTML: white page, your logo at a fixed small size, the message in your font with real paragraphs, firm address / phone / GSTIN at the bottom (plain text copy included). Settings → Email templates: new Email look (font, size, colour, logo height and position, footer, preview) and a formatting editor for every template (font, size, bold, italic, underline, colour, lists, alignment, links, preview). The same editor is in every email box before sending (invoice, proforma, payment reminder, TDS). Buyers B2B without a GSTIN move to Buyers B2C (old invoices unchanged; CASH stays)."
 }
