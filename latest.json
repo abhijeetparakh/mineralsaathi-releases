@@ -1,5 +1,5 @@
 {
-  "version": "1.46.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.46.0.zip",
-  "notes": "New collapsible menu: Dashboard; Sales Invoice (All Sales Invoices, New Order, New Invoice B2B, New Invoice B2C, P.P. Enterprise Billing, Proforma Invoice); Purchase (Inward & Freight, Stock In); Reports (Sales & Inward, Payment Reminder, Transporter TDS, Email Log, Commission); Factory (Factory Wages, Fuel); Master (Buyer B2B, Buyer B2C, Factory Fixed Expenses, Suppliers, Item List, Logistics: Lorries & Owners, Transporters, Local Freight); Settings (Important Settings with the edit password: Data Location, Security, Import, About; This Computer: Printer Settings, Companies, Email Templates, Universal Rules, Backup & Files, Updates: Automatic Updates, Start When Windows Starts). Item lists and their values are in A-Z order; Plants are in Item List; Suppliers, Local Freight and Factory Fixed Expenses are in Master."
+  "version": "1.46.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.46.1.zip",
+  "notes": "Menu: opening a menu group closes the other groups; only the group of the open page stays open."
 }
