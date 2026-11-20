@@ -1,5 +1,5 @@
 {
-  "version": "1.49.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.49.0.zip",
-  "notes": "Marketing phase 2: New Sample Dispatch (find an enquiry, pincode fills city and state, item details from Master → Item List, grade fills itself, copy last sample), Enquiries list with search and CSV, enquiry page with samples and planned calls. Saving a sample plans the first call. Settings → Marketing: first Ref No. for new enquiries (434)."
+  "version": "1.50.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.50.0.zip",
+  "notes": "Marketing: New Sample Dispatch rebuilt like an invoice — one dispatch holds several samples (Add sample, Duplicate, Remove), GSTIN first with Get details from GST, dispatch details (sent by, tracking no., parcels, weight) once per dispatch. Samples saved in 1.49 are kept, one dispatch each."
 }
