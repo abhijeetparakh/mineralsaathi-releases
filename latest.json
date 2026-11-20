@@ -1,5 +1,5 @@
 {
-  "version": "1.50.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.50.0.zip",
-  "notes": "Marketing: New Sample Dispatch rebuilt like an invoice — one dispatch holds several samples (Add sample, Duplicate, Remove), GSTIN first with Get details from GST, dispatch details (sent by, tracking no., parcels, weight) once per dispatch. Samples saved in 1.49 are kept, one dispatch each."
+  "version": "1.51.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.51.0.zip",
+  "notes": "Marketing phase 3 — printing: 🖨 Print on every dispatch (opens by itself after saving). One sample sticker for each sample and one cover letter for the dispatch are ticked; also address label, bag stickers, envelope, Annexure-A, CDF-I, CN 23, To Whom It May Concern, sample note with QR codes and local freight letter. Uses the A4, 4x6 label and envelope printers of Printer Settings. PDF copy of the cover letter and stickers in the PDF folder → Marketing. Settings → Marketing: name, Digipin, delivery time, minimum order, payment terms for the papers."
 }
