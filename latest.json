@@ -1,5 +1,5 @@
 {
-  "version": "1.47.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.0.zip",
-  "notes": "Buyer master: 🔍 Get details from GST under the GSTIN box. The captcha of the GST portal (Search Taxpayer) shows in the form; type it and the legal / trade name, address, pincode, city, state and PAN fill in, with the GSTIN status."
+  "version": "1.47.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.1.zip",
+  "notes": "GST details: the one-line address from the GST portal is split into address, city, pincode and state (state and city now fill in). Suppliers master also has 🔍 Get details from GST (name, lessee name = legal name)."
 }
