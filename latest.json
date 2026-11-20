@@ -1,5 +1,5 @@
 {
-  "version": "1.52.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.52.0.zip",
-  "notes": "Marketing papers: sample sticker without barcode; address label with the tracking barcode in the centre, only From address and Ref No.; cover letter without tracking no.; Sample Note without the address, with note-book lines to write on, and editable on screen (Open & edit, Save notes)."
+  "version": "1.53.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.53.0.zip",
+  "notes": "New Sample Dispatch: 'Fill from a file' — paste a picture (Ctrl+V), drop or choose a picture or PDF (visiting card, letterhead, GST certificate, e-mail screenshot). A GSTIN is looked up on the GST portal as before; otherwise company, name, mobiles, e-mail, address, pincode, city, state and Digipin are read from the file. Pictures and scanned PDFs are read with the text recognition built into Windows on the main PC."
 }
