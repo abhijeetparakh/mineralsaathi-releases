@@ -1,5 +1,5 @@
 {
-  "version": "1.47.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.3.zip",
-  "notes": "Suppliers master: address, pincode (fills city and state), city, state, PAN, email, mobile and phone. Get details from GST fills the address, pincode, city, state, PAN and lessee name. The list shows the city / state and contact."
+  "version": "1.48.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.48.0.zip",
+  "notes": "Marketing (Sampark Saathi) phase 1: new Marketing menu (switch it on in Settings → Marketing), Marketing Lists and WhatsApp messages. Marketing data is kept in its own file marketing.db, included in every backup and in Close for today."
 }
