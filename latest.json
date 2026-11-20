@@ -1,5 +1,5 @@
 {
-  "version": "1.46.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.46.3.zip",
-  "notes": "UPI QR codes: up to Rs.1 lakh the QR asks for the exact amount; above Rs.1 lakh (UPI limit) the QR has only the UPI id, so the buyer types the amount and can pay in parts. Freight voucher: smaller bottom box (smaller QR) and no signature picture — sign by hand."
+  "version": "1.47.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.0.zip",
+  "notes": "Buyer master: 🔍 Get details from GST under the GSTIN box. The captcha of the GST portal (Search Taxpayer) shows in the form; type it and the legal / trade name, address, pincode, city, state and PAN fill in, with the GSTIN status."
 }
