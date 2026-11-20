@@ -1,5 +1,5 @@
 {
-  "version": "1.46.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.46.1.zip",
-  "notes": "Menu: opening a menu group closes the other groups; only the group of the open page stays open."
+  "version": "1.46.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.46.2.zip",
+  "notes": "Invoice print: the transporter GSTIN is no longer printed; the e-way bill shows as a barcode with its number under it; freight shows only the rate per MT and the payment mode (e.g. Rs.2,100 per MT · TO PAY)."
 }
