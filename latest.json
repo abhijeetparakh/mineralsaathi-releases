@@ -1,5 +1,5 @@
 {
-  "version": "1.47.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.1.zip",
-  "notes": "GST details: the one-line address from the GST portal is split into address, city, pincode and state (state and city now fill in). Suppliers master also has 🔍 Get details from GST (name, lessee name = legal name)."
+  "version": "1.47.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.2.zip",
+  "notes": "GST details: the address line no longer repeats — a part already contained in another part, and the city / district / state / pincode, are left out of the address box."
 }
