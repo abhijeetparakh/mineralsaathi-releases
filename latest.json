@@ -1,5 +1,5 @@
 {
-  "version": "1.46.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.46.2.zip",
-  "notes": "Invoice print: the transporter GSTIN is no longer printed; the e-way bill shows as a barcode with its number under it; freight shows only the rate per MT and the payment mode (e.g. Rs.2,100 per MT · TO PAY)."
+  "version": "1.46.3",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.46.3.zip",
+  "notes": "UPI QR codes: up to Rs.1 lakh the QR asks for the exact amount; above Rs.1 lakh (UPI limit) the QR has only the UPI id, so the buyer types the amount and can pay in parts. Freight voucher: smaller bottom box (smaller QR) and no signature picture — sign by hand."
 }
