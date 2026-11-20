@@ -1,5 +1,5 @@
 {
-  "version": "1.51.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.51.0.zip",
-  "notes": "Marketing phase 3 — printing: 🖨 Print on every dispatch (opens by itself after saving). One sample sticker for each sample and one cover letter for the dispatch are ticked; also address label, bag stickers, envelope, Annexure-A, CDF-I, CN 23, To Whom It May Concern, sample note with QR codes and local freight letter. Uses the A4, 4x6 label and envelope printers of Printer Settings. PDF copy of the cover letter and stickers in the PDF folder → Marketing. Settings → Marketing: name, Digipin, delivery time, minimum order, payment terms for the papers."
+  "version": "1.52.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.52.0.zip",
+  "notes": "Marketing papers: sample sticker without barcode; address label with the tracking barcode in the centre, only From address and Ref No.; cover letter without tracking no.; Sample Note without the address, with note-book lines to write on, and editable on screen (Open & edit, Save notes)."
 }
