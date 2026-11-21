@@ -1,5 +1,5 @@
 {
-  "version": "1.47.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.3.zip",
-  "notes": "Suppliers master: address, pincode (fills city and state), city, state, PAN, email, mobile and phone. Get details from GST fills the address, pincode, city, state, PAN and lessee name. The list shows the city / state and contact."
+  "version": "1.48.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.48.0.zip",
+  "notes": "Automatic email: one switch only, in Settings → Email templates (off to start with; removed from Universal rules, from each template and from the buyer form). An invoice is emailed by itself only when its L.R. copy is attached — about 10 minutes after the last L.R. page — with everything in one email (invoice + e-way bill, L.R. copy, transporter TDS declaration and bank proof when due). No L.R. copy, no email. The TDS declaration and bank proof are never sent on their own any more. Sending by hand is unchanged."
 }
