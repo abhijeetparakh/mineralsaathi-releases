@@ -1,5 +1,5 @@
 {
-  "version": "1.62.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.62.0.zip",
-  "notes": "Orders Book: after a new B2B order is saved, the software asks 'Send a proforma invoice to the buyer?'. Yes: the proforma invoice is made from the order (today's date, the buyer's items, rates and packing, the order quantities; the lot no. comes at dispatch) and emailed to the buyer with the default proforma template, the proforma PDF, our bank proof and the transporter's bank proof when not sent before. If it cannot be sent (no email, email not set up) the proforma is kept and its email can be opened. No: only the order is saved."
+  "version": "1.62.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.62.1.zip",
+  "notes": "Proforma invoice from an order: the question now asks the transporter (the buyer's last transporter filled in, change it from the list) with 'Do not send transporter details' — then no transporter on the proforma and no transporter bank proof. The proforma invoice prints the buyer's Payment terms from Buyers ({Payment terms} field in email templates too). Buyer B2C has Payment terms like Buyer B2B."
 }
