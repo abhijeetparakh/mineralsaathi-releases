@@ -1,5 +1,5 @@
 {
-  "version": "1.66.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.0.zip",
-  "notes": "Reports → ⛏ IBM Return: Parakh Marketing only. Opening balance as on 01.04.2026 = 1025.990 MT (can be changed); for any month: opening stock, received (inward vouchers to Parakh Marketing + Stock IN; actual or rawana weight), sold (Parakh Marketing sales invoices) and closing stock. Buyer wise details in big letters: company name, GSTIN, qty and amount before GST — click a value to copy it; the values clicked in a row stay highlighted until a value of another row is clicked. Received-from table (supplier, IBM no., GSTIN, rawana and actual MT), and Export."
+  "version": "1.66.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.1.zip",
+  "notes": "IBM Return now follows the IBM sheet: Year; INPUT table month by month — input total (qty, amount) and each supplier under its IBM no. (qty, rate, amount); input = P.P. Enterprise bills to Parakh Marketing + Stock IN purchases. PARAKH MARKETING table: opening qty, input qty, output qty, closing balance for April…March with totals (opening 01.04.2026 = 1025.990 MT). Buyer-wise details of a month in big letters with Total Qty and Total Amount; every figure can be clicked to copy (row stays highlighted). Stock IN has Purchase rate per MT and Purchase amount for the IBM input."
 }
