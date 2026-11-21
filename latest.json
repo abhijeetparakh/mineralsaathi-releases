@@ -1,5 +1,5 @@
 {
-  "version": "1.65.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.65.1.zip",
-  "notes": "Bag types now come only from Master → Item List → Bag type. Each bag type there has ⚙ Stock settings (kind: bag / 5 kg inner / combo / liner, empty weight, minimum stock, buyer's own bags, liner) and the list shows them. Below the list, 'Other bag names used' on buyers' items or invoices can be joined to a bag type (Same as) or added to the list. Factory → Bags has no Bag types tab any more; bag entries only take bag types of the Item List; names not in the list are marked in the stock."
+  "version": "1.66.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.0.zip",
+  "notes": "Reports → ⛏ IBM Return: Parakh Marketing only. Opening balance as on 01.04.2026 = 1025.990 MT (can be changed); for any month: opening stock, received (inward vouchers to Parakh Marketing + Stock IN; actual or rawana weight), sold (Parakh Marketing sales invoices) and closing stock. Buyer wise details in big letters: company name, GSTIN, qty and amount before GST — click a value to copy it; the values clicked in a row stay highlighted until a value of another row is clicked. Received-from table (supplier, IBM no., GSTIN, rawana and actual MT), and Export."
 }
