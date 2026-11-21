@@ -1,5 +1,5 @@
 {
-  "version": "1.66.4",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.4.zip",
-  "notes": "IBM Return: each supplier's IBM no. (above its name) can be clicked to copy it; Parakh Marketing's owner Aadhaar no. (Settings → Companies) and GSTIN are shown under the PARAKH MARKETING heading and copy on a click too."
+  "version": "1.66.5",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.5.zip",
+  "notes": "IBM Return: in Buyer-wise details every sale without a GSTIN (B2C, online, UN-REGIS-DEALER) is one row 'B2C' with GSTIN UN-REGIS-DEALER, at the end. Dashboard: Today's calls (Marketing) above Latest invoices — late calls first, customer, reason, last dispatch, mobile with WhatsApp; click a call to open it. Latest invoices shows the last 3."
 }
