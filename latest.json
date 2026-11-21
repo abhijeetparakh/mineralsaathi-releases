@@ -1,5 +1,5 @@
 {
-  "version": "1.61.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.61.1.zip",
-  "notes": "Buyer B2B and Buyer B2C: new option 'Print location QR' YES / NO (YES to start with). NO = the delivery location box and QR are never printed on that buyer's invoices, even when a location link is saved."
+  "version": "1.62.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.62.0.zip",
+  "notes": "Orders Book: after a new B2B order is saved, the software asks 'Send a proforma invoice to the buyer?'. Yes: the proforma invoice is made from the order (today's date, the buyer's items, rates and packing, the order quantities; the lot no. comes at dispatch) and emailed to the buyer with the default proforma template, the proforma PDF, our bank proof and the transporter's bank proof when not sent before. If it cannot be sent (no email, email not set up) the proforma is kept and its email can be opened. No: only the order is saved."
 }
