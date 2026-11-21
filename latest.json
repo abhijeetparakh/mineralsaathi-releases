@@ -1,5 +1,5 @@
 {
-  "version": "1.64.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.64.0.zip",
-  "notes": "Reports: 🛒 B2C Sales — the online / unregistered sales of every year: year-by-year chart of all complete years, month by month year against year, medium of sale, states, items, top customers and customers who bought again; ₹ or MT. 🏢 Group Sales — buyers of one Group of companies (Buyers master) together: groups this year against last year, a table of the last 4 years with the change, and for one group its year-by-year and month charts and each buyer of the group."
+  "version": "1.65.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.65.0.zip",
+  "notes": "Factory → Bags: stock of empty bags (Parakh Marketing + Parakh Fertilizer together). Bag entries: purchase (number of bags, or the weight on the bill — the count is worked out from the empty weight of one bag; rate per bag or per kg → cost per bag; supplier from Master → Suppliers), bags received from a buyer, adjustment, and opening stock (edit password). Every PM / PF sales invoice from today uses its bags by itself; a combo bag (1 outer + 4 or 6 × 5 kg bags) uses its parts; WITH LINER uses a liner; wastage %. Bag types: empty weight, kind (bag / 5 kg inner / combo / liner), minimum stock, buyer's own bags, and 'same as' to join two names of one bag. Stock report with average cost and value, low-stock warning, and the bags used by each invoice. Settings → Companies: owner Aadhaar no. and Udyam (MSME) registration no."
 }
