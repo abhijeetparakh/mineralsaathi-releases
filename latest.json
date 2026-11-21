@@ -1,5 +1,5 @@
 {
-  "version": "1.61.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.61.0.zip",
-  "notes": "Orders Book: two kinds of order — B2B order (buyer from Buyer B2B) and B2C order (customer from Buyer B2C, items of that customer and ONLINE SALE, quantity in bags). 'Create B2C sales invoice' fills the customer, items and bags. Google Calendar (the link in Settings → Data Location): every new order, or a changed dispatch date, shows on the calendar from 3 days before the dispatch date until the dispatch date (e.g. dispatch 23 Dec → 20, 21, 22 and 23 Dec). 📅 badge on each order; 'Send to calendar' for older orders."
+  "version": "1.61.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.61.1.zip",
+  "notes": "Buyer B2B and Buyer B2C: new option 'Print location QR' YES / NO (YES to start with). NO = the delivery location box and QR are never printed on that buyer's invoices, even when a location link is saved."
 }
