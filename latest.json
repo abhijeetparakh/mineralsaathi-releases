@@ -1,5 +1,5 @@
 {
-  "version": "1.66.5",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.5.zip",
-  "notes": "IBM Return: in Buyer-wise details every sale without a GSTIN (B2C, online, UN-REGIS-DEALER) is one row 'B2C' with GSTIN UN-REGIS-DEALER, at the end. Dashboard: Today's calls (Marketing) above Latest invoices — late calls first, customer, reason, last dispatch, mobile with WhatsApp; click a call to open it. Latest invoices shows the last 3."
+  "version": "1.66.6",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.6.zip",
+  "notes": "The four totals (Parakh Marketing, Parakh Fertilizer, P.P. Enterprise bills, Inward) moved from the Dashboard to Reports → Sales & Inward. Dashboard: new '🔮 Orders expected' for two months — buyers whose next order was expected in the last month and has not come yet (days late), and those expected in the coming month — with usual items, last order, usual qty, how sure, WhatsApp; click a buyer to see its history."
 }
