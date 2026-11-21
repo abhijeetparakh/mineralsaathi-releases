@@ -1,5 +1,5 @@
 {
-  "version": "1.55.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.55.0.zip",
-  "notes": "Marketing phase 5. Settings → Import → 'Marketing — Sample Dispatch Excel': choose Sample_Dispatch.xlsm (or a file with only the DATA sheet) to bring the enquiries, samples, call history and planned calls into Mineral Saathi, with a grade-matching table, a check report and a list of things to check by hand; it can be run again during the side-by-side trial. Marketing Reports: samples by month, grade and courier, enquiries by state, pending and late calls, enquiries that became buyers, each with Export. Make Buyer: copies an enquiry into Master → Buyer B2B (or links it to a buyer already there)."
+  "version": "1.56.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.56.0.zip",
+  "notes": "Automatic email: one switch only, in Settings → Email templates (off to start with; removed from Universal rules, from each template and from the buyer form). An invoice is emailed by itself only when its L.R. copy is attached — about 10 minutes after the last L.R. page — with everything in one email (invoice + e-way bill, L.R. copy, transporter TDS declaration and bank proof when due). No L.R. copy, no email. The TDS declaration and bank proof are never sent on their own any more. Sending by hand is unchanged."
 }
