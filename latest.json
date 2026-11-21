@@ -1,5 +1,5 @@
 {
-  "version": "1.66.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.1.zip",
-  "notes": "IBM Return now follows the IBM sheet: Year; INPUT table month by month — input total (qty, amount) and each supplier under its IBM no. (qty, rate, amount); input = P.P. Enterprise bills to Parakh Marketing + Stock IN purchases. PARAKH MARKETING table: opening qty, input qty, output qty, closing balance for April…March with totals (opening 01.04.2026 = 1025.990 MT). Buyer-wise details of a month in big letters with Total Qty and Total Amount; every figure can be clicked to copy (row stays highlighted). Stock IN has Purchase rate per MT and Purchase amount for the IBM input."
+  "version": "1.66.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.2.zip",
+  "notes": "IBM Return: input is always on the rawana weight (the choice is removed). New Reports → Firm Wise: F.Y., month (or whole year) and Parakh Marketing / Parakh Fertilizer / Both — total quantity, taxable amount, GST and total amount, a PM / PF split when Both, and the list of invoices below like All Sales Invoices (click to open, total row, Export)."
 }
