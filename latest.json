@@ -1,5 +1,5 @@
 {
-  "version": "1.70.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.70.0.zip",
-  "notes": "Master → Analysis Reports: test reports (Sl No., Content, Observed Value in %, Protocol Adopted) with Add row, a note after the table, Duplicate and Delete. Each report is linked to Item + Colour + Form + Mesh from the Item List. Print or email it as a PDF on the letter head of the firm chosen (Parakh Marketing by default), with the same head as the invoice. Invoice email: tick 'Analysis report' to attach the report of the items in the invoice (ticked by itself for buyers with Test report compulsory = YES). Sample dispatch email: the report of the grades sent is attached (tick box). First report made from the sample: Diatomaceous Earth Light Yellow."
+  "version": "1.70.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.70.1.zip",
+  "notes": "Analysis Reports: on the letter head (and the PDF name and email), 'Diatomaceous Earth' in the report name is replaced by the Item the report is linked to — e.g. S.R.Filler Code 7777 Off White Calcined. The edit screen shows how it will be printed."
 }
