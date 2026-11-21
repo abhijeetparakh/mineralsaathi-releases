@@ -1,5 +1,5 @@
 {
-  "version": "1.66.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.3.zip",
-  "notes": "IBM Return: only HSN 251200 (2512 is taken as 251200), in input and output — P.P. Enterprise bill lines of that HSN, Stock IN of suppliers whose HSN is 251200 (or, HSN not set, diatomaceous / siliceous earth), and only the HSN 251200 lines of Parakh Marketing sales (qty and amount of those lines). Output now matches the IBM sheet month by month."
+  "version": "1.66.4",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.4.zip",
+  "notes": "IBM Return: each supplier's IBM no. (above its name) can be clicked to copy it; Parakh Marketing's owner Aadhaar no. (Settings → Companies) and GSTIN are shown under the PARAKH MARKETING heading and copy on a click too."
 }
