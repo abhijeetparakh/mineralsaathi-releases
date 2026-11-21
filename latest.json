@@ -1,5 +1,5 @@
 {
-  "version": "1.47.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.47.3.zip",
-  "notes": "Suppliers master: address, pincode (fills city and state), city, state, PAN, email, mobile and phone. Get details from GST fills the address, pincode, city, state, PAN and lessee name. The list shows the city / state and contact."
+  "version": "1.55.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.55.0.zip",
+  "notes": "Marketing phase 5. Settings → Import → 'Marketing — Sample Dispatch Excel': choose Sample_Dispatch.xlsm (or a file with only the DATA sheet) to bring the enquiries, samples, call history and planned calls into Mineral Saathi, with a grade-matching table, a check report and a list of things to check by hand; it can be run again during the side-by-side trial. Marketing Reports: samples by month, grade and courier, enquiries by state, pending and late calls, enquiries that became buyers, each with Export. Make Buyer: copies an enquiry into Master → Buyer B2B (or links it to a buyer already there)."
 }
