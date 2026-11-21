@@ -1,5 +1,5 @@
 {
-  "version": "1.62.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.62.3.zip",
-  "notes": "B2C orders and their proforma invoice fixed: a B2C order now has Bags / packs and Rate / bag (₹) for each item (the rate is filled from Buyer B2C and can be changed). The proforma invoice uses exactly those bags and the rate per bag (amount = bags × rate per bag) instead of reading the master rate; the B2C sales invoice made from the order gets them too. The item must have its Kg / bag in Buyer B2C. In emails, {Item qty} of a B2C invoice / proforma is in bags."
+  "version": "1.62.4",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.62.4.zip",
+  "notes": "Fix: an invoice brought from the old Excel file whose grand-total cell was empty (Parakh Marketing invoice 63 dt 19.05.2026 to Parakh Fertilizer) had a negative taxable value and GST % -100, so the HSN summary showed 251200 twice. On start the software makes such invoices again from qty × rate (30 MT × 2,300 = 69,000 + GST 3,450 = 72,450). The Excel import tool now does the same."
 }
