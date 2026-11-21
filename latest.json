@@ -1,5 +1,5 @@
 {
-  "version": "1.66.6",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.66.6.zip",
-  "notes": "The four totals (Parakh Marketing, Parakh Fertilizer, P.P. Enterprise bills, Inward) moved from the Dashboard to Reports → Sales & Inward. Dashboard: new '🔮 Orders expected' for two months — buyers whose next order was expected in the last month and has not come yet (days late), and those expected in the coming month — with usual items, last order, usual qty, how sure, WhatsApp; click a buyer to see its history."
+  "version": "1.67.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.67.0.zip",
+  "notes": "New Dashboard: Orders Book on top. Big icons with a red notification number, like a phone app: 🔮 Orders Expected (buyers expected in the last month and the next month — late / coming / MT), P.P. Enterprise with its logo and 'x Bills Due', 📞 Today's Calls (late ones in red). Below them quick icons: Stock IN, Inward Entry, Create Invoice, New Order. The Backup card is gone: under the date and time at the top right it shows 'Backup done' in green or 'Error in backup' in red (bold); click it for Backup settings. A good backup clears the old error."
 }
