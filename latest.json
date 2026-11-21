@@ -1,5 +1,5 @@
 {
-  "version": "1.67.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.67.0.zip",
-  "notes": "New Dashboard: Orders Book on top. Big icons with a red notification number, like a phone app: 🔮 Orders Expected (buyers expected in the last month and the next month — late / coming / MT), P.P. Enterprise with its logo and 'x Bills Due', 📞 Today's Calls (late ones in red). Below them quick icons: Stock IN, Inward Entry, Create Invoice, New Order. The Backup card is gone: under the date and time at the top right it shows 'Backup done' in green or 'Error in backup' in red (bold); click it for Backup settings. A good backup clears the old error."
+  "version": "1.68.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.68.0.zip",
+  "notes": "Orders Expected → gentle reminder emails to buyers. Two new email templates (Master → Email templates): 'Order expected — gentle reminder (late)' and 'Order expected — reminder before the date'. Reports → Expected Orders: a '✉ Remind' button on every buyer (choose late or coming-soon, edit and send) and a badge when a reminder was sent. Automatic: in each of the two templates switch on 'Send this reminder by itself' and set the days — late: N days after the expected date (default 7); coming: N days before (default 5). Sent once for each expected date, 10 am–7 pm, from the buyer's firm email; not to buyers with an order in the Orders Book, buyers who stopped buying, or buyers without email."
 }
