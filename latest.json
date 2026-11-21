@@ -1,5 +1,5 @@
 {
-  "version": "1.68.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.68.0.zip",
-  "notes": "Orders Expected → gentle reminder emails to buyers. Two new email templates (Master → Email templates): 'Order expected — gentle reminder (late)' and 'Order expected — reminder before the date'. Reports → Expected Orders: a '✉ Remind' button on every buyer (choose late or coming-soon, edit and send) and a badge when a reminder was sent. Automatic: in each of the two templates switch on 'Send this reminder by itself' and set the days — late: N days after the expected date (default 7); coming: N days before (default 5). Sent once for each expected date, 10 am–7 pm, from the buyer's firm email; not to buyers with an order in the Orders Book, buyers who stopped buying, or buyers without email."
+  "version": "1.69.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.69.0.zip",
+  "notes": "Version line (bottom left): green = newest version installed, red = a new version is available. Double-click it to check for an update and install it at once. Buyers (B2B and B2C): more than one email — put a comma between them; every email gets the invoice, proforma and reminders (first in To, the rest in CC)."
 }
