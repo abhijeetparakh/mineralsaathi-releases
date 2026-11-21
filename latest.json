@@ -1,5 +1,5 @@
 {
-  "version": "1.54.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.54.0.zip",
-  "notes": "Page Setup (Settings → This Computer → Page Setup), like OrderSaathi: for every paper except the PM / PPE / PF sales invoices choose the printer, paper (or your own size), turn, part of the sheet, margins, fit or size, shift, copies and labels per sheet, with a live preview and a test print. Marketing: Today's Calls; Communication screen with the full history, WhatsApp link and QR code, log a call and plan the next one in one go; planned calls go to Google Calendar and are sent again when the internet is back; Quick Sticker; Letters (letter pad, bus parcel label, blank envelope)."
+  "version": "1.55.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.55.0.zip",
+  "notes": "Marketing phase 5. Settings → Import → 'Marketing — Sample Dispatch Excel': choose Sample_Dispatch.xlsm (or a file with only the DATA sheet) to bring the enquiries, samples, call history and planned calls into Mineral Saathi, with a grade-matching table, a check report and a list of things to check by hand; it can be run again during the side-by-side trial. Marketing Reports: samples by month, grade and courier, enquiries by state, pending and late calls, enquiries that became buyers, each with Export. Make Buyer: copies an enquiry into Master → Buyer B2B (or links it to a buyer already there)."
 }
