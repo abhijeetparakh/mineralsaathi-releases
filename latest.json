@@ -1,5 +1,5 @@
 {
-  "version": "1.65.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.65.0.zip",
-  "notes": "Factory → Bags: stock of empty bags (Parakh Marketing + Parakh Fertilizer together). Bag entries: purchase (number of bags, or the weight on the bill — the count is worked out from the empty weight of one bag; rate per bag or per kg → cost per bag; supplier from Master → Suppliers), bags received from a buyer, adjustment, and opening stock (edit password). Every PM / PF sales invoice from today uses its bags by itself; a combo bag (1 outer + 4 or 6 × 5 kg bags) uses its parts; WITH LINER uses a liner; wastage %. Bag types: empty weight, kind (bag / 5 kg inner / combo / liner), minimum stock, buyer's own bags, and 'same as' to join two names of one bag. Stock report with average cost and value, low-stock warning, and the bags used by each invoice. Settings → Companies: owner Aadhaar no. and Udyam (MSME) registration no."
+  "version": "1.65.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.65.1.zip",
+  "notes": "Bag types now come only from Master → Item List → Bag type. Each bag type there has ⚙ Stock settings (kind: bag / 5 kg inner / combo / liner, empty weight, minimum stock, buyer's own bags, liner) and the list shows them. Below the list, 'Other bag names used' on buyers' items or invoices can be joined to a bag type (Same as) or added to the list. Factory → Bags has no Bag types tab any more; bag entries only take bag types of the Item List; names not in the list are marked in the stock."
 }
