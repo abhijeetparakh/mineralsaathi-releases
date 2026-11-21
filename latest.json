@@ -1,5 +1,5 @@
 {
-  "version": "1.60.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.60.0.zip",
-  "notes": "Buyer B2C now works like Buyer B2B: each B2C customer has its own Items, rates & packing (Add new item, Edit, Duplicate) and its own Delivery addresses (godowns, with location link). Open a customer in Master → Buyer B2C → Edit. On a New B2C Invoice, after choosing the customer, its items (with the ONLINE SALE items) are offered and its delivery addresses are in 'Deliver to'."
+  "version": "1.61.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.61.0.zip",
+  "notes": "Orders Book: two kinds of order — B2B order (buyer from Buyer B2B) and B2C order (customer from Buyer B2C, items of that customer and ONLINE SALE, quantity in bags). 'Create B2C sales invoice' fills the customer, items and bags. Google Calendar (the link in Settings → Data Location): every new order, or a changed dispatch date, shows on the calendar from 3 days before the dispatch date until the dispatch date (e.g. dispatch 23 Dec → 20, 21, 22 and 23 Dec). 📅 badge on each order; 'Send to calendar' for older orders."
 }
