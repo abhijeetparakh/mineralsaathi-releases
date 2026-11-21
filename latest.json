@@ -1,5 +1,5 @@
 {
-  "version": "1.56.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.56.1.zip",
-  "notes": "Invoice copy to the transporter is no longer sent by itself. It can be switched on only inside the Invoice copy to transporter template (Settings → Email templates): then it goes about 10 minutes after an invoice is saved with all dispatch details. Email templates cannot be deleted any more — only edited."
+  "version": "1.57.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.57.0.zip",
+  "notes": "Sample dispatch email: new template 'Sample dispatch (cover letter)' in Settings → Email templates — same words as the cover letter plus the tracking number and tracking link, all editable. Switch inside the template: send it by itself when a tracking number is entered or changed (5 minutes later, once per number). ✉ Email button on each dispatch in Marketing → Enquiries to send or edit it by hand. New Master → Logistics → Postage & Couriers: courier name, website and tracking link with {tracking_no}; 'Find the tracking link on the website' looks it up online, else it stays blank and the general 17track link is used. Couriers here are the Marketing 'Sent by' list."
 }
