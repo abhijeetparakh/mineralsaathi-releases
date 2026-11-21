@@ -1,5 +1,5 @@
 {
-  "version": "1.58.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.58.0.zip",
-  "notes": "Automatic payment reminder: Master → Buyer B2B has two new fields — Payment by (1 to 45 days from the invoice date) and Send payment reminder YES / NO (NO = never). Switch inside the Payment reminder template (Email Templates): when an unpaid invoice passes its date, the buyer gets one email with all its overdue unpaid invoices (invoice date, number, qty, amount), our bank proof and the invoice copies attached; while not marked received it is sent again every 5 days. Only invoices dated from the chosen date. The template shows who is overdue and when the next reminder goes. Reminders sent by hand can also attach the invoice copies and bank proof. Email Templates moved under Master."
+  "version": "1.58.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.58.1.zip",
+  "notes": "Payment reminder: one email per buyer with every due invoice in the {Invoice table} (Sl, invoice date, invoice no., qty, amount, due on, days overdue, total) — place the table anywhere in the template with the {Invoice table} field. Only the invoice PDFs already saved in the invoice folder are attached; an invoice without a saved PDF is still listed in the table."
 }
