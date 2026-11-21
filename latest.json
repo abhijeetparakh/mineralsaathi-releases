@@ -1,5 +1,5 @@
 {
-  "version": "1.62.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.62.1.zip",
-  "notes": "Proforma invoice from an order: the question now asks the transporter (the buyer's last transporter filled in, change it from the list) with 'Do not send transporter details' — then no transporter on the proforma and no transporter bank proof. The proforma invoice prints the buyer's Payment terms from Buyers ({Payment terms} field in email templates too). Buyer B2C has Payment terms like Buyer B2B."
+  "version": "1.62.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.62.2.zip",
+  "notes": "Orders Book: a new B2C order also asks 'Send a proforma invoice?' and works like B2B — the proforma is made in the customer's name (Buyers B2C address, GSTIN UNREGISTERED, the customer's items, rate per bag and bags, the customer's payment terms) and emailed to the customer's email, with the transporter question."
 }
