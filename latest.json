@@ -1,5 +1,5 @@
 {
-  "version": "1.58.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.58.1.zip",
-  "notes": "Payment reminder: one email per buyer with every due invoice in the {Invoice table} (Sl, invoice date, invoice no., qty, amount, due on, days overdue, total) — place the table anywhere in the template with the {Invoice table} field. Only the invoice PDFs already saved in the invoice folder are attached; an invoice without a saved PDF is still listed in the table."
+  "version": "1.59.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.59.0.zip",
+  "notes": "Delivery location: new field 'Delivery location link' (Google Maps → Share → Copy link, or latitude, longitude) in Buyer B2B, Buyer B2C and each delivery address (godown). When the invoice is printed both-sided, the back page has the e-way bill made smaller and below it a Delivery Location box with the QR code on the right and a note for the driver in English and Hindi. The box is printed even when there is no e-way bill. Buyer B2C now also has Payment by (1–45 days) and Send payment reminder YES / NO; B2C customers get automatic payment reminders like B2B buyers."
 }
