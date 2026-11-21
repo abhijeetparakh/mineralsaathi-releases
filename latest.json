@@ -1,5 +1,5 @@
 {
-  "version": "1.59.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.59.0.zip",
-  "notes": "Delivery location: new field 'Delivery location link' (Google Maps → Share → Copy link, or latitude, longitude) in Buyer B2B, Buyer B2C and each delivery address (godown). When the invoice is printed both-sided, the back page has the e-way bill made smaller and below it a Delivery Location box with the QR code on the right and a note for the driver in English and Hindi. The box is printed even when there is no e-way bill. Buyer B2C now also has Payment by (1–45 days) and Send payment reminder YES / NO; B2C customers get automatic payment reminders like B2B buyers."
+  "version": "1.60.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.60.0.zip",
+  "notes": "Buyer B2C now works like Buyer B2B: each B2C customer has its own Items, rates & packing (Add new item, Edit, Duplicate) and its own Delivery addresses (godowns, with location link). Open a customer in Master → Buyer B2C → Edit. On a New B2C Invoice, after choosing the customer, its items (with the ONLINE SALE items) are offered and its delivery addresses are in 'Deliver to'."
 }
