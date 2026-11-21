@@ -1,5 +1,5 @@
 {
-  "version": "1.69.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.69.0.zip",
-  "notes": "Version line (bottom left): green = newest version installed, red = a new version is available. Double-click it to check for an update and install it at once. Buyers (B2B and B2C): more than one email — put a comma between them; every email gets the invoice, proforma and reminders (first in To, the rest in CC)."
+  "version": "1.70.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.70.0.zip",
+  "notes": "Master → Analysis Reports: test reports (Sl No., Content, Observed Value in %, Protocol Adopted) with Add row, a note after the table, Duplicate and Delete. Each report is linked to Item + Colour + Form + Mesh from the Item List. Print or email it as a PDF on the letter head of the firm chosen (Parakh Marketing by default), with the same head as the invoice. Invoice email: tick 'Analysis report' to attach the report of the items in the invoice (ticked by itself for buyers with Test report compulsory = YES). Sample dispatch email: the report of the grades sent is attached (tick box). First report made from the sample: Diatomaceous Earth Light Yellow."
 }
