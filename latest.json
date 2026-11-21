@@ -1,5 +1,5 @@
 {
-  "version": "1.56.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.56.0.zip",
-  "notes": "Automatic email: one switch only, in Settings → Email templates (off to start with; removed from Universal rules, from each template and from the buyer form). An invoice is emailed by itself only when its L.R. copy is attached — about 10 minutes after the last L.R. page — with everything in one email (invoice + e-way bill, L.R. copy, transporter TDS declaration and bank proof when due). No L.R. copy, no email. The TDS declaration and bank proof are never sent on their own any more. Sending by hand is unchanged."
+  "version": "1.56.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.56.1.zip",
+  "notes": "Invoice copy to the transporter is no longer sent by itself. It can be switched on only inside the Invoice copy to transporter template (Settings → Email templates): then it goes about 10 minutes after an invoice is saved with all dispatch details. Email templates cannot be deleted any more — only edited."
 }
