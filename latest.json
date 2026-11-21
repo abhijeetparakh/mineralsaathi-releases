@@ -1,5 +1,5 @@
 {
-  "version": "1.57.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.57.0.zip",
-  "notes": "Sample dispatch email: new template 'Sample dispatch (cover letter)' in Settings → Email templates — same words as the cover letter plus the tracking number and tracking link, all editable. Switch inside the template: send it by itself when a tracking number is entered or changed (5 minutes later, once per number). ✉ Email button on each dispatch in Marketing → Enquiries to send or edit it by hand. New Master → Logistics → Postage & Couriers: courier name, website and tracking link with {tracking_no}; 'Find the tracking link on the website' looks it up online, else it stays blank and the general 17track link is used. Couriers here are the Marketing 'Sent by' list."
+  "version": "1.58.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.58.0.zip",
+  "notes": "Automatic payment reminder: Master → Buyer B2B has two new fields — Payment by (1 to 45 days from the invoice date) and Send payment reminder YES / NO (NO = never). Switch inside the Payment reminder template (Email Templates): when an unpaid invoice passes its date, the buyer gets one email with all its overdue unpaid invoices (invoice date, number, qty, amount), our bank proof and the invoice copies attached; while not marked received it is sent again every 5 days. Only invoices dated from the chosen date. The template shows who is overdue and when the next reminder goes. Reminders sent by hand can also attach the invoice copies and bank proof. Email Templates moved under Master."
 }
