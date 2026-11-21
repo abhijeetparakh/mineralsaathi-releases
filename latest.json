@@ -1,5 +1,5 @@
 {
-  "version": "1.63.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.63.0.zip",
-  "notes": "Reports: three new screens. 📈 Sales Analysis — sales of all years in charts: year by year, month by month (year against year), top buyers and items with last year marked, firms, new buyers and buyers who have not bought this year; filters for firm, item, buyer, MT or ₹. Buyer Chart — every buyer × April…March of a year with total, last year and change (new / none yet / ▲▼ %), darker cells = more, search, sort and export. 🔮 Expected Orders — studies past orders: for each buyer the usual gap and quantity, the next order date (late / due now / later / stopped buying, seasonal buyers by their months), and the expected MT for the next 6 months and items for the next 3, against last year. Click any buyer for its years, months, items and last orders."
+  "version": "1.64.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.64.0.zip",
+  "notes": "Reports: 🛒 B2C Sales — the online / unregistered sales of every year: year-by-year chart of all complete years, month by month year against year, medium of sale, states, items, top customers and customers who bought again; ₹ or MT. 🏢 Group Sales — buyers of one Group of companies (Buyers master) together: groups this year against last year, a table of the last 4 years with the change, and for one group its year-by-year and month charts and each buyer of the group."
 }
