@@ -1,5 +1,5 @@
 {
-  "version": "1.73.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.73.1.zip",
-  "notes": "Analysis Reports: the signature is printed at half its size."
+  "version": "1.73.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.73.2.zip",
+  "notes": "Sample dispatch email: one Analysis report for each grade sent (several grades → several reports), each PDF named by its grade (e.g. Y325 MESH.pdf). Report colour now fits its shades: YELLOW fits LIGHT YELLOW, GREY fits DARK GRAY."
 }
