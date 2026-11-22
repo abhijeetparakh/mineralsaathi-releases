@@ -1,5 +1,5 @@
 {
-  "version": "1.72.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.72.0.zip",
-  "notes": "Analysis report goes with every invoice email by itself when a report fits the items: the buyer's / group's own report (set rule), otherwise a general report (not linked to any buyer or group) chosen by Item, Colour, Form and Mesh — automatic invoice emails too. Invoice email box: 👁 Preview beside the Analysis report tick. Sample dispatch email box: 'Send the Analysis report with this email?' with 👁 Preview. Sample dispatch (cover letter) template: new tick 'Also send the Analysis report with this email' (ticks the box in the email and is used by the automatic sample email)."
+  "version": "1.73.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.73.0.zip",
+  "notes": "Item List → Item group (new): make a group (e.g. FILLERS) and tick the item names in it. Master → Analysis Reports → Linked to: new 'Item group' drop-down (optional). With a group chosen, the report fits every item of that group (colour, form and mesh are still checked if chosen); the single Item box is then not used."
 }
