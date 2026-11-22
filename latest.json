@@ -1,5 +1,5 @@
 {
-  "version": "1.70.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.70.1.zip",
-  "notes": "Analysis Reports: on the letter head (and the PDF name and email), 'Diatomaceous Earth' in the report name is replaced by the Item the report is linked to — e.g. S.R.Filler Code 7777 Off White Calcined. The edit screen shows how it will be printed."
+  "version": "1.71.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.71.0.zip",
+  "notes": "Buyer B2B and Buyer B2C: new field Contact person (under the name). Analysis Reports: a report can be for one buyer or one group of companies (goes only to them, before the general reports; otherwise by Item, Colour, Form, Mesh). New tick 'Certificate of Analysis' block (J K group style) printed before the table: Report No. = invoice no., Material JKI Code No. (SR FILLER CODE 7777), Name of the Customer = the buying firm, Plant, Batch/Lot No., Date of Dispatch, Invoice No. Other reports print the buyer's contact person, company name and address before the table. New report 'JK GROUP' for all buyers of the J K TYERS group. Print / email from the report screen can be for a chosen buyer."
 }
