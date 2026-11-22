@@ -1,5 +1,5 @@
 {
-  "version": "1.73.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.73.2.zip",
-  "notes": "Sample dispatch email: one Analysis report for each grade sent (several grades → several reports), each PDF named by its grade (e.g. Y325 MESH.pdf). Report colour now fits its shades: YELLOW fits LIGHT YELLOW, GREY fits DARK GRAY."
+  "version": "1.74.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.74.0.zip",
+  "notes": "Analysis reports with invoices (B2B and B2C) now work like sample dispatches: one PDF per grade, named by the grade (e.g. Y300 MESH.pdf); items without a report template are left out. New rule everywhere: items of one invoice / dispatch with the same item group (or same item) and the same colour get one report, for the first such item; same group with another colour gets its own report."
 }
