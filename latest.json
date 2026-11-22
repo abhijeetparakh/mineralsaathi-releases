@@ -1,5 +1,5 @@
 {
-  "version": "1.71.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.71.0.zip",
-  "notes": "Buyer B2B and Buyer B2C: new field Contact person (under the name). Analysis Reports: a report can be for one buyer or one group of companies (goes only to them, before the general reports; otherwise by Item, Colour, Form, Mesh). New tick 'Certificate of Analysis' block (J K group style) printed before the table: Report No. = invoice no., Material JKI Code No. (SR FILLER CODE 7777), Name of the Customer = the buying firm, Plant, Batch/Lot No., Date of Dispatch, Invoice No. Other reports print the buyer's contact person, company name and address before the table. New report 'JK GROUP' for all buyers of the J K TYERS group. Print / email from the report screen can be for a chosen buyer."
+  "version": "1.72.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.72.0.zip",
+  "notes": "Analysis report goes with every invoice email by itself when a report fits the items: the buyer's / group's own report (set rule), otherwise a general report (not linked to any buyer or group) chosen by Item, Colour, Form and Mesh — automatic invoice emails too. Invoice email box: 👁 Preview beside the Analysis report tick. Sample dispatch email box: 'Send the Analysis report with this email?' with 👁 Preview. Sample dispatch (cover letter) template: new tick 'Also send the Analysis report with this email' (ticks the box in the email and is used by the automatic sample email)."
 }
