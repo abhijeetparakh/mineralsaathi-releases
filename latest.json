@@ -1,5 +1,5 @@
 {
-  "version": "1.73.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.73.0.zip",
-  "notes": "Item List → Item group (new): make a group (e.g. FILLERS) and tick the item names in it. Master → Analysis Reports → Linked to: new 'Item group' drop-down (optional). With a group chosen, the report fits every item of that group (colour, form and mesh are still checked if chosen); the single Item box is then not used."
+  "version": "1.73.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.73.1.zip",
+  "notes": "Analysis Reports: the signature is printed at half its size."
 }
