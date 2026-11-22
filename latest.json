@@ -1,5 +1,5 @@
 {
-  "version": "1.74.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.74.0.zip",
-  "notes": "Analysis reports with invoices (B2B and B2C) now work like sample dispatches: one PDF per grade, named by the grade (e.g. Y300 MESH.pdf); items without a report template are left out. New rule everywhere: items of one invoice / dispatch with the same item group (or same item) and the same colour get one report, for the first such item; same group with another colour gets its own report."
+  "version": "1.75.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.75.0.zip",
+  "notes": "New WhatsApp menu (Meta WhatsApp Cloud API, its own number): Chats — a simple WhatsApp-like window to read and reply, send photos and files (no calls); WhatsApp Settings — Phone number ID, WABA ID, access token, and the fetch URL + linked-app key from WMessage Saathi (incoming messages come through the WMessage Saathi callback). Templates are fetched from Meta and linked to Sales invoice B2B, B2C, Sample dispatch and Payment reminder, with each {{variable}} filled from the paper (or fixed text); invoice PDF goes on top when the template has a document header. 💬 WhatsApp buttons on the invoice, the sample dispatch and the payment reminder."
 }
