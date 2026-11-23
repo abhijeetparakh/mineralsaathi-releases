@@ -1,5 +1,5 @@
 {
-  "version": "1.78.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.1.zip",
-  "notes": "Vendor form: rows can now be dragged up or down — hold ⠿ at the start of a row and drop it where it should go (a main row takes its sub-rows with it), then press Save."
+  "version": "1.78.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.2.zip",
+  "notes": "Marketing → Communication: under the company and person details, a 'Samples sent' table lists every sample sent to this customer — date, grade and item, colour · mesh · form, sample size and rate — for all dispatches."
 }
