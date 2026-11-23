@@ -1,5 +1,5 @@
 {
-  "version": "1.78.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.3.zip",
-  "notes": "Marketing → Communication: '✨ Refine the note' under the Note box. It uses the free AI built into Microsoft Edge / Chrome on this PC when available (no API, no cost); otherwise a free offline tidy-up (spaces, capital letters, full stops, short forms like rcvd → received, nxt wk → next week, nr → no response). ↶ Undo brings back what you typed."
+  "version": "1.79.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.79.0.zip",
+  "notes": "✨ Refine on every note box of the software (notes, remarks, messages) and in every email editor and email template (formatting and {Fields} are kept). Same writing everywhere, as you type: names, company, contact person, city, state … in CAPITALS; email in small letters; mobile numbers digits only with the set number of digits (red warning if wrong); pincode 6 digits, Aadhaar 12; GSTIN, PAN, IFSC in capitals with a format check. The main PC also saves names, cities, IFSC, Udyam no. this way. Company settings, email templates and analysis reports keep the writing as typed."
 }
