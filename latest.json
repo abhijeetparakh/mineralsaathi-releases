@@ -1,5 +1,5 @@
 {
-  "version": "1.77.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.77.1.zip",
-  "notes": "Vendor form print: the heading is now COMPANY DETAILS."
+  "version": "1.77.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.77.2.zip",
+  "notes": "Vendor form: the particulars and their order are now the same for every company. A row added, removed, renamed or moved in one company changes the form of all companies; only the details (answers) stay each company's own (a renamed row keeps the other companies' answers)."
 }
