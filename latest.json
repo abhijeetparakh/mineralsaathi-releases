@@ -1,5 +1,5 @@
 {
-  "version": "1.75.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.75.0.zip",
-  "notes": "New WhatsApp menu (Meta WhatsApp Cloud API, its own number): Chats — a simple WhatsApp-like window to read and reply, send photos and files (no calls); WhatsApp Settings — Phone number ID, WABA ID, access token, and the fetch URL + linked-app key from WMessage Saathi (incoming messages come through the WMessage Saathi callback). Templates are fetched from Meta and linked to Sales invoice B2B, B2C, Sample dispatch and Payment reminder, with each {{variable}} filled from the paper (or fixed text); invoice PDF goes on top when the template has a document header. 💬 WhatsApp buttons on the invoice, the sample dispatch and the payment reminder."
+  "version": "1.75.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.75.1.zip",
+  "notes": "Marketing → Enquiries → buyer → New dispatch for this customer: new button '📦 Send an earlier sample again' lists every sample sent to this customer before (newest first, with rate and last date). Tick the ones to re-send; they are added to the dispatch and new samples can be added with + Add sample."
 }
