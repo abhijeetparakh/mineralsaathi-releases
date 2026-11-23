@@ -1,5 +1,5 @@
 {
-  "version": "1.78.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.2.zip",
-  "notes": "Marketing → Communication: under the company and person details, a 'Samples sent' table lists every sample sent to this customer — date, grade and item, colour · mesh · form, sample size and rate — for all dispatches."
+  "version": "1.78.3",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.3.zip",
+  "notes": "Marketing → Communication: '✨ Refine the note' under the Note box. It uses the free AI built into Microsoft Edge / Chrome on this PC when available (no API, no cost); otherwise a free offline tidy-up (spaces, capital letters, full stops, short forms like rcvd → received, nxt wk → next week, nr → no response). ↶ Undo brings back what you typed."
 }
