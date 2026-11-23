@@ -1,5 +1,5 @@
 {
-  "version": "1.79.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.79.1.zip",
-  "notes": "✨ Refine fixed: it no longer waits when the browser's AI model is not downloaded or not running — it uses the AI only when it is ready on this PC (at most 15 seconds), otherwise the offline tidy-up straight away."
+  "version": "1.80.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.80.0.zip",
+  "notes": "Settings → Companies → Documents: Aadhaar card and Jan Aadhaar card added. New Master → ✉ Write Email: choose the sending company first, then write a new email (To from the buyers or typed, CC, subject, message with ✨ Refine), tick the company documents to attach (GST, PAN, bank proof, MSME, Aadhaar, Jan Aadhaar, company details form) and drop in any other file. Company details email can also attach Aadhaar / Jan Aadhaar."
 }
