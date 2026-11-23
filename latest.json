@@ -1,5 +1,5 @@
 {
-  "version": "1.81.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.81.0.zip",
-  "notes": "New Settings → Important Settings → Network & Login. 1) '🔓 Allow office PCs on this network' (main PC): adds a Windows Firewall rule for Mineral Saathi on every network type, also Public, but only for PCs of the same office network — no need to change the network to Private (Windows asks 'Yes' once). 2) Login: make users (ID, name, password) and tick 'Other PCs must log in'. Other PCs then see a login page and stay logged in for 30 days; the main PC never asks. Log out at the bottom left. Setup-Main-PC.bat now makes the same firewall rule."
+  "version": "1.81.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.81.1.zip",
+  "notes": "Network & Login: the 🔓 button now waits for Windows and says if the rule could not be made. If Windows does not ask, the card shows two easy ways by hand: right-click Setup-Main-PC.bat → Run as administrator, or a ready command to paste in PowerShell (as administrator)."
 }
