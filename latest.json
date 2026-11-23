@@ -1,5 +1,5 @@
 {
-  "version": "1.78.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.0.zip",
-  "notes": "Every email box sent by hand (invoice, proforma, transporter copy, payment reminder, sample dispatch, order reminder, analysis report, company details, and any new one later) now has '📎 Attach more files': drop files or choose them (PDF, photos, Excel, Word …, 20 MB in all). They go with the email together with the usual attachments."
+  "version": "1.78.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.1.zip",
+  "notes": "Vendor form: rows can now be dragged up or down — hold ⠿ at the start of a row and drop it where it should go (a main row takes its sub-rows with it), then press Save."
 }
