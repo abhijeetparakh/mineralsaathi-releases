@@ -1,5 +1,5 @@
 {
-  "version": "1.75.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.75.1.zip",
-  "notes": "Marketing → Enquiries → buyer → New dispatch for this customer: new button '📦 Send an earlier sample again' lists every sample sent to this customer before (newest first, with rate and last date). Tick the ones to re-send; they are added to the dispatch and new samples can be added with + Add sample."
+  "version": "1.76.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.76.0.zip",
+  "notes": "Item List → Item form: new 'Moisture range' (e.g. 8-12%) for each form. It is printed on the sample sticker, in a Moisture column of the sample cover letter and the sample dispatch email table, and under each item on the tax invoice and proforma invoice (form from the Item List / buyer items, or read from the grade, e.g. Y300 MESH = powder). Empty = not printed."
 }
