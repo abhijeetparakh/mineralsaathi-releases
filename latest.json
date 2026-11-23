@@ -1,5 +1,5 @@
 {
-  "version": "1.80.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.80.0.zip",
-  "notes": "Settings → Companies → Documents: Aadhaar card and Jan Aadhaar card added. New Master → ✉ Write Email: choose the sending company first, then write a new email (To from the buyers or typed, CC, subject, message with ✨ Refine), tick the company documents to attach (GST, PAN, bank proof, MSME, Aadhaar, Jan Aadhaar, company details form) and drop in any other file. Company details email can also attach Aadhaar / Jan Aadhaar."
+  "version": "1.81.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.81.0.zip",
+  "notes": "New Settings → Important Settings → Network & Login. 1) '🔓 Allow office PCs on this network' (main PC): adds a Windows Firewall rule for Mineral Saathi on every network type, also Public, but only for PCs of the same office network — no need to change the network to Private (Windows asks 'Yes' once). 2) Login: make users (ID, name, password) and tick 'Other PCs must log in'. Other PCs then see a login page and stay logged in for 30 days; the main PC never asks. Log out at the bottom left. Setup-Main-PC.bat now makes the same firewall rule."
 }
