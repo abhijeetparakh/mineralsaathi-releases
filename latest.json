@@ -1,5 +1,5 @@
 {
-  "version": "1.81.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.81.1.zip",
-  "notes": "Network & Login: the 🔓 button now waits for Windows and says if the rule could not be made. If Windows does not ask, the card shows two easy ways by hand: right-click Setup-Main-PC.bat → Run as administrator, or a ready command to paste in PowerShell (as administrator)."
+  "version": "1.82.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.82.0.zip",
+  "notes": "Printing from other PCs: Settings → This Computer → Printer Settings now lets each other PC choose for EACH paper where it prints — 🖨 here (print window, this PC's printer) or 🖥 on the main PC's printer (no window). Covers sales invoice/proforma, bag stickers, envelope and every marketing paper (sample stickers, cover letter, address label, envelope, declarations, local freight letter, quick sticker, letters). Buttons: All here / All on the main PC."
 }
