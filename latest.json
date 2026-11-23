@@ -1,5 +1,5 @@
 {
-  "version": "1.77.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.77.3.zip",
-  "notes": "Vendor form: sub-sections like Banking Information. '+ Sub' on a row adds a sub-row under it; '↳' makes a row a sub-row of the row above ('↰' makes it a main row again). Sub-rows are lettered A), B), C) … by themselves and printed under their main row. Shared by all companies like the other particulars."
+  "version": "1.78.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.78.0.zip",
+  "notes": "Every email box sent by hand (invoice, proforma, transporter copy, payment reminder, sample dispatch, order reminder, analysis report, company details, and any new one later) now has '📎 Attach more files': drop files or choose them (PDF, photos, Excel, Word …, 20 MB in all). They go with the email together with the usual attachments."
 }
