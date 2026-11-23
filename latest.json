@@ -1,5 +1,5 @@
 {
-  "version": "1.77.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.77.0.zip",
-  "notes": "Settings → Companies: two new tabs for each company. 📎 Documents — upload the GST certificate, PAN card, bank proof and MSME certificate (PDF or photo). 📝 Vendor form — the vendor registration form (Name of the vendor, registration no., addresses, contact, GST, FSSAI, banking information A–F …), filled from the company details; rows can be added, removed, moved and answered; printed on the letter head with the signature at half size. New email template 'Company details'. Master → Buyer B2B / B2C: '📇 Send company details' emails the ticked documents and the vendor form PDF to the buyer."
+  "version": "1.77.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.77.1.zip",
+  "notes": "Vendor form print: the heading is now COMPANY DETAILS."
 }
