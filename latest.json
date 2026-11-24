@@ -1,5 +1,5 @@
 {
-  "version": "1.92.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.92.0.zip",
-  "notes": "Page Setup: new “Turn the content” for every paper (90° right / left, 180°) — e.g. print the inward voucher, freight letter, wages voucher, labels, Annexure-A, CDF-I, CN 23 on half-cut sheets. Bag / parcel stickers: one-click A4 sticker sheet with the same sticker twice side by side (or 2 rows). Companies: Signature and Bank proof moved to 📎 Documents (a bank proof photo there is also used in emails); new Website goes into the vendor form."
+  "version": "1.92.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.92.1.zip",
+  "notes": "Company signature printed at half its first size everywhere: invoices, proformas, vouchers, freight letters, wages voucher, transporter invoice, and all Marketing papers (cover letter, Annexure-A, CDF-I, CN 23, To Whom It May Concern, sample note, letter pad). Analysis reports and the vendor form stay at the same half size."
 }
