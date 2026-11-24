@@ -1,5 +1,5 @@
 {
-  "version": "1.91.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.2.zip",
-  "notes": "Factory → Bags → Bag entries: a clear “🔒 Add opening stock” button. It sets the entry to Opening stock and the date to the counting date, and shows what to do."
+  "version": "1.91.3",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.3.zip",
+  "notes": "Factory → Bags → Bag entries → “Bags received from a buyer”: the buyer list now shows only buyers who have an item with packing “Buyer's bags” (Buyer B2B → items), buyers with their own bag type, and buyers who sent bags before."
 }
