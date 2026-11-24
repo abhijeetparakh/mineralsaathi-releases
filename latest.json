@@ -1,5 +1,5 @@
 {
-  "version": "1.85.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.85.0.zip",
-  "notes": "WhatsApp: more fields for templates (driver number, delivery plant, quantity, courier website, tracking link, seller email and mobile); the sample dispatch now sends the sample cover letter PDF; automatic sending — invoice B2B/B2C when the L.R. copy is attached, sample dispatch when the L.R./tracking no. is filled in — after 1 to 90 minutes, sent once; Reports → Communication Log (Email log + WhatsApp log); WhatsApp settings moved to Settings → Important Settings → WhatsApp."
+  "version": "1.86.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.86.0.zip",
+  "notes": "Factory → Bags → Bag entries: one entry can now hold many bag types (one bill / invoice from the supplier, or one lot from a buyer). Press “+ Add bag type” for each line; all lines are saved together and changed together (Edit opens the whole bill). Total bags and amount shown."
 }
