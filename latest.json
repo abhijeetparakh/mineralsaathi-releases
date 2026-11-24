@@ -1,5 +1,5 @@
 {
-  "version": "1.83.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.83.1.zip",
-  "notes": "PM → PF invoice: the Lot No. of each line is copied from the Parakh Fertilizer invoice; when PF's invoice has none it stays blank (the PM invoice is still made even if Parakh Fertilizer's item asks for a lot no.)."
+  "version": "1.84.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.84.0.zip",
+  "notes": "Marketing: the “Did the sample arrive?” call now has an on/off switch and a days box (Settings → Marketing). It is planned for every sample sent — new or sent again — and goes to Google Calendar straight away when the Calendar link is set."
 }
