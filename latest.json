@@ -1,5 +1,5 @@
 {
-  "version": "1.91.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.1.zip",
-  "notes": "Dashboard: new shortcut icon for Lorries & Owners (Master → Logistics)."
+  "version": "1.91.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.2.zip",
+  "notes": "Factory → Bags → Bag entries: a clear “🔒 Add opening stock” button. It sets the entry to Opening stock and the date to the counting date, and shows what to do."
 }
