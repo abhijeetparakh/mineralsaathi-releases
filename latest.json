@@ -1,5 +1,5 @@
 {
-  "version": "1.84.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.84.1.zip",
-  "notes": "WhatsApp settings: the access token is now pasted into a plain box, so the browser can no longer put a saved password there and cut the token short. The box shows how many characters were pasted. Saving refuses anything that is not a real Meta token, and an email in the Account ID box. (Also replaces an empty test package published by mistake.)"
+  "version": "1.85.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.85.0.zip",
+  "notes": "WhatsApp: more fields for templates (driver number, delivery plant, quantity, courier website, tracking link, seller email and mobile); the sample dispatch now sends the sample cover letter PDF; automatic sending — invoice B2B/B2C when the L.R. copy is attached, sample dispatch when the L.R./tracking no. is filled in — after 1 to 90 minutes, sent once; Reports → Communication Log (Email log + WhatsApp log); WhatsApp settings moved to Settings → Important Settings → WhatsApp."
 }
