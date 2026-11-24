@@ -1,5 +1,5 @@
 {
-  "version": "",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-.zip",
-  "notes": ""
+  "version": "1.84.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.84.1.zip",
+  "notes": "WhatsApp settings: the access token is now pasted into a plain box, so the browser can no longer put a saved password there and cut the token short. The box shows how many characters were pasted. Saving refuses anything that is not a real Meta token, and an email in the Account ID box. (Also replaces an empty test package published by mistake.)"
 }
