@@ -1,5 +1,5 @@
 {
-  "version": "1.83.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.83.0.zip",
-  "notes": "PM → PF invoice: made for every new (and changed) Parakh Fertilizer sales invoice with the same lorry no., L.R. no., transporter, driver phone (and courier/docket); if two PARAKH FERTILIZER buyers exist, the one with items is used; if it can't be made, a clear message says why, and the PF invoice shows its PM invoice or a 'Make PM → PF invoice' button. Rawana QR: the confirm date of the rawana is read and put as the date in Stock IN. Master → Suppliers: open / add a supplier in a window like a buyer, with its items — raw material, grade, HSN, purchase rate per MT and freight per MT; Stock IN fills the item, rate and freight from them."
+  "version": "1.83.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.83.1.zip",
+  "notes": "PM → PF invoice: the Lot No. of each line is copied from the Parakh Fertilizer invoice; when PF's invoice has none it stays blank (the PM invoice is still made even if Parakh Fertilizer's item asks for a lot no.)."
 }
