@@ -1,5 +1,5 @@
 {
-  "version": "1.86.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.86.0.zip",
-  "notes": "Factory → Bags → Bag entries: one entry can now hold many bag types (one bill / invoice from the supplier, or one lot from a buyer). Press “+ Add bag type” for each line; all lines are saved together and changed together (Edit opens the whole bill). Total bags and amount shown."
+  "version": "1.87.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.87.0.zip",
+  "notes": "Master → Suppliers: new “Supplier type” — Raw material or Packing material (all old suppliers are Raw material). The inward voucher and Stock IN offer only raw material suppliers; Factory → Bags → Bag entries offers only packing material suppliers. The supplier list shows the type and can be filtered by it."
 }
