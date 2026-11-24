@@ -1,5 +1,5 @@
 {
-  "version": "1.91.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.0.zip",
-  "notes": "Website: new Website box for each company (Settings → Companies), Buyer B2B and Buyer B2C. Typed in small letters, https:// added by itself, checked when saved. WhatsApp templates can use “Seller website”."
+  "version": "1.91.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.1.zip",
+  "notes": "Dashboard: new shortcut icon for Lorries & Owners (Master → Logistics)."
 }
