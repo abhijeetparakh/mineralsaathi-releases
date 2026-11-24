@@ -1,5 +1,5 @@
 {
-  "version": "1.90.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.90.0.zip",
-  "notes": "Dashboard: ✎ Edit on every order in the Orders Book card; new Write Email icon. Menu: Updates is one item; Marketing Lists moved under Master; Communication removed from Marketing (open it from an enquiry) and replaced by Sample Dispatch — every dispatch, newest first, with Direct Chat (WhatsApp Web) and META WhatsApp links; small icons removed from sub-menus (🔒 kept). New sample: Sent by comes from Master → Logistics → Postage & Couriers (Courier list removed from Marketing Lists)."
+  "version": "1.91.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.0.zip",
+  "notes": "Website: new Website box for each company (Settings → Companies), Buyer B2B and Buyer B2C. Typed in small letters, https:// added by itself, checked when saved. WhatsApp templates can use “Seller website”."
 }
