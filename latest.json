@@ -1,5 +1,5 @@
 {
-  "version": "1.87.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.87.0.zip",
-  "notes": "Master → Suppliers: new “Supplier type” — Raw material or Packing material (all old suppliers are Raw material). The inward voucher and Stock IN offer only raw material suppliers; Factory → Bags → Bag entries offers only packing material suppliers. The supplier list shows the type and can be filtered by it."
+  "version": "1.88.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.88.0.zip",
+  "notes": "Printing: the inward & freight voucher, the local freight letter and the factory wages voucher now print straight to their printer (Settings → Page Setup) on the main PC. On another PC, Printer Settings has these three papers too — choose Here (print window) or Main PC for each."
 }
