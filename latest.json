@@ -1,5 +1,5 @@
 {
-  "version": "1.88.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.88.0.zip",
-  "notes": "Printing: the inward & freight voucher, the local freight letter and the factory wages voucher now print straight to their printer (Settings → Page Setup) on the main PC. On another PC, Printer Settings has these three papers too — choose Here (print window) or Main PC for each."
+  "version": "1.89.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.89.0.zip",
+  "notes": "Marketing → new sample / send again: “Sent by” is no longer needed when saving. It becomes compulsory only when the tracking no. is filled in. Copying the last dispatch no longer copies Sent by."
 }
