@@ -1,5 +1,5 @@
 {
-  "version": "1.91.4",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.4.zip",
-  "notes": "Factory → Bags → Bags received from a buyer: a buyer who belongs to a group of companies (Buyer B2B → Group) is shown once as the group name; other buyers by their own name. The entry and the bag list show the group name."
+  "version": "1.91.5",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.5.zip",
+  "notes": "Bag types → Stock settings → Kind “Combo — 1 outer bag + pouches inside”: choose any outer bag, any pouch and 1 to 50 pouches (e.g. S.R.FILLER 7777 5.5 KG X 4 = 1 S.R.FILLER 7777 + 4 × 5 KG POUCH). Each such bag on an invoice takes the outer bag and the pouches out of the stock; the pouch is kept as an inner bag by itself."
 }
