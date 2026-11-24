@@ -1,5 +1,5 @@
 {
-  "version": "1.91.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.3.zip",
-  "notes": "Factory → Bags → Bag entries → “Bags received from a buyer”: the buyer list now shows only buyers who have an item with packing “Buyer's bags” (Buyer B2B → items), buyers with their own bag type, and buyers who sent bags before."
+  "version": "1.91.4",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.91.4.zip",
+  "notes": "Factory → Bags → Bags received from a buyer: a buyer who belongs to a group of companies (Buyer B2B → Group) is shown once as the group name; other buyers by their own name. The entry and the bag list show the group name."
 }
