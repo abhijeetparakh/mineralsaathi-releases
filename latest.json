@@ -1,5 +1,5 @@
 {
-  "version": "1.92.3",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.92.3.zip",
-  "notes": "Buyer → Delivery addresses: the distance (km) is now worked out by itself from the pincode, like the buyer's own km, with a “↻ find km” button. Internet needed."
+  "version": "1.93.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.93.0.zip",
+  "notes": "New order / Orders Book: a “Deliver to” choice for buyers (B2B and B2C) with delivery addresses — default address picked by itself; shown in the Orders Book and on the dashboard; “Create sales invoice” fills the same delivery address on the invoice."
 }
