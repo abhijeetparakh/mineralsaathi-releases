@@ -1,5 +1,5 @@
 {
-  "version": "1.92.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.92.2.zip",
-  "notes": "Emails: the company details at the bottom of an email now always belong to the company that sends it. Before, P.P. Enterprise showed on Parakh Marketing emails because both companies have the same email address."
+  "version": "1.92.3",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.92.3.zip",
+  "notes": "Buyer → Delivery addresses: the distance (km) is now worked out by itself from the pincode, like the buyer's own km, with a “↻ find km” button. Internet needed."
 }
