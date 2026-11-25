@@ -1,5 +1,5 @@
 {
-  "version": "1.92.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.92.1.zip",
-  "notes": "Company signature printed at half its first size everywhere: invoices, proformas, vouchers, freight letters, wages voucher, transporter invoice, and all Marketing papers (cover letter, Annexure-A, CDF-I, CN 23, To Whom It May Concern, sample note, letter pad). Analysis reports and the vendor form stay at the same half size."
+  "version": "1.92.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.92.2.zip",
+  "notes": "Emails: the company details at the bottom of an email now always belong to the company that sends it. Before, P.P. Enterprise showed on Parakh Marketing emails because both companies have the same email address."
 }
