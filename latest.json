@@ -1,5 +1,5 @@
 {
-  "version": "1.94.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.94.1.zip",
-  "notes": "Settings → Page Setup: saving did not work for most papers (Cover letter, CDF-I, CN 23, Annexure-A, labels, envelopes, vouchers …) — the browser silently refused because of a hidden size box. Fixed for all 21 papers; also the invoice Printer Settings boxes."
+  "version": "1.95.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.95.0.zip",
+  "notes": "New order (B2B): each item now has Qty (MT) and Bags — type either one and the other is worked out from the kg in one bag (Buyers → items). The Orders Book shows both, and Create sales invoice fills in the bags."
 }
