@@ -1,5 +1,5 @@
 {
-  "version": "1.94.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.94.0.zip",
-  "notes": "Reports → Communication Log: 👁 Preview of every email (as sent — from, to, subject, attachments, the message) and every WhatsApp message (text, template, the file or photo). Emails sent from now on keep a copy; older ones have none. Dashboard: new New Sample Dispatch icon; all dashboard icons now in A–Z order."
+  "version": "1.94.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.94.1.zip",
+  "notes": "Settings → Page Setup: saving did not work for most papers (Cover letter, CDF-I, CN 23, Annexure-A, labels, envelopes, vouchers …) — the browser silently refused because of a hidden size box. Fixed for all 21 papers; also the invoice Printer Settings boxes."
 }
