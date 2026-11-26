@@ -1,5 +1,5 @@
 {
-  "version": "1.93.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.93.0.zip",
-  "notes": "New order / Orders Book: a “Deliver to” choice for buyers (B2B and B2C) with delivery addresses — default address picked by itself; shown in the Orders Book and on the dashboard; “Create sales invoice” fills the same delivery address on the invoice."
+  "version": "1.94.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.94.0.zip",
+  "notes": "Reports → Communication Log: 👁 Preview of every email (as sent — from, to, subject, attachments, the message) and every WhatsApp message (text, template, the file or photo). Emails sent from now on keep a copy; older ones have none. Dashboard: new New Sample Dispatch icon; all dashboard icons now in A–Z order."
 }
