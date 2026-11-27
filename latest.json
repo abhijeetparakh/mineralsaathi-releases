@@ -1,5 +1,5 @@
 {
-  "version": "1.95.2",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.95.2.zip",
-  "notes": "Printing: everything except the invoice with its e-way bill now prints on one side only — even when the printer is set to print both sides (2 invoice copies no longer land on the front and back of one sheet). Local Freight Letter: new 👁 Preview and 💾 Save PDF buttons; a PDF copy is also saved in the PDF folder (F.Y. folder, next to the invoice) every time it is printed."
+  "version": "1.96.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.96.0.zip",
+  "notes": "Invoices: an invoice can no longer be saved twice — Save / Save & print are blocked while saving, and the main PC ignores the same new invoice sent again within 2 minutes. New “🗑 Delete (last invoice)” on the last invoice of each company and F.Y. (edit password): it is removed completely (with its PM → PF invoice) and the next invoice gets its number again. Older invoices can only be cancelled."
 }
