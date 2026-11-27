@@ -1,5 +1,5 @@
 {
-  "version": "1.95.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.95.1.zip",
-  "notes": "Saving fixed everywhere: the browser could silently refuse to save a form when a number did not fit its box's step (e.g. a rate of 18.333 when adding an item to an order). Now no form is blocked by the browser; the main PC checks the values and shows a clear message."
+  "version": "1.95.2",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.95.2.zip",
+  "notes": "Printing: everything except the invoice with its e-way bill now prints on one side only — even when the printer is set to print both sides (2 invoice copies no longer land on the front and back of one sheet). Local Freight Letter: new 👁 Preview and 💾 Save PDF buttons; a PDF copy is also saved in the PDF folder (F.Y. folder, next to the invoice) every time it is printed."
 }
