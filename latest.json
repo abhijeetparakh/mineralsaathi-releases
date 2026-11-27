@@ -1,5 +1,5 @@
 {
-  "version": "1.95.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.95.0.zip",
-  "notes": "New order (B2B): each item now has Qty (MT) and Bags — type either one and the other is worked out from the kg in one bag (Buyers → items). The Orders Book shows both, and Create sales invoice fills in the bags."
+  "version": "1.95.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.95.1.zip",
+  "notes": "Saving fixed everywhere: the browser could silently refuse to save a form when a number did not fit its box's step (e.g. a rate of 18.333 when adding an item to an order). Now no form is blocked by the browser; the main PC checks the values and shows a clear message."
 }
