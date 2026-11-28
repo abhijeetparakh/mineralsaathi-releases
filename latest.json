@@ -1,5 +1,5 @@
 {
-  "version": "1.97.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.97.0.zip",
-  "notes": "Invoice → 📎 L.R. copy: the L.R. / docket no. is read from the uploaded copy (photo: Windows' own OCR, offline; PDF: its text) and filled in on the invoice when its L.R. no. is empty; a different number is pointed out. A sideways or upside-down photo is turned the right way up when saved."
+  "version": "1.97.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.97.1.zip",
+  "notes": "Invoice → Lorry no.: new choice “PART LOAD” (drop-down, or type part load) for small loads sent with other goods. It is kept as PART LOAD (not run together), no driver phone is filled from it, and the e-way bill file leaves the vehicle no. empty for it (fill it on the portal)."
 }
