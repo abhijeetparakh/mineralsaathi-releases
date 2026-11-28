@@ -1,5 +1,5 @@
 {
-  "version": "1.97.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.97.1.zip",
-  "notes": "Invoice → Lorry no.: new choice “PART LOAD” (drop-down, or type part load) for small loads sent with other goods. It is kept as PART LOAD (not run together), no driver phone is filled from it, and the e-way bill file leaves the vehicle no. empty for it (fill it on the portal)."
+  "version": "1.98.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.98.0.zip",
+  "notes": "Invoice → 📎 L.R. copy: the net L.R. amount (Total / Grand total, else Freight) is read too, shown as freight per MT and per kg, and filled in as the invoice's freight rate when that is empty (a different freight is pointed out). A photo of the L.R. is cut to the paper — the table or floor around it is removed."
 }
