@@ -1,5 +1,5 @@
 {
-  "version": "1.96.0",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.96.0.zip",
-  "notes": "Invoices: an invoice can no longer be saved twice — Save / Save & print are blocked while saving, and the main PC ignores the same new invoice sent again within 2 minutes. New “🗑 Delete (last invoice)” on the last invoice of each company and F.Y. (edit password): it is removed completely (with its PM → PF invoice) and the next invoice gets its number again. Older invoices can only be cancelled."
+  "version": "1.96.1",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.96.1.zip",
+  "notes": "Invoices: a saved invoice without its e-way bill PDF has a new “📄 Attach e-way bill” button — it looks in the e-way bill folder, or lets you choose the PDF, checks it against the invoice and keeps it (it prints on the back). Editing such an invoice and pressing Save now also looks for the e-way bill."
 }
