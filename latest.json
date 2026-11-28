@@ -1,5 +1,5 @@
 {
-  "version": "1.96.1",
-  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.96.1.zip",
-  "notes": "Invoices: a saved invoice without its e-way bill PDF has a new “📄 Attach e-way bill” button — it looks in the e-way bill folder, or lets you choose the PDF, checks it against the invoice and keeps it (it prints on the back). Editing such an invoice and pressing Save now also looks for the e-way bill."
+  "version": "1.97.0",
+  "url": "https://raw.githubusercontent.com/abhijeetparakh/mineralsaathi-releases/main/updates/MineralSaathi-update-1.97.0.zip",
+  "notes": "Invoice → 📎 L.R. copy: the L.R. / docket no. is read from the uploaded copy (photo: Windows' own OCR, offline; PDF: its text) and filled in on the invoice when its L.R. no. is empty; a different number is pointed out. A sideways or upside-down photo is turned the right way up when saved."
 }
